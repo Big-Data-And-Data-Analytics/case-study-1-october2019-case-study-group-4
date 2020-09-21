@@ -1,0 +1,25 @@
+Entity;Text;Start;End;Name;QID
+Person;Randy, Can you send me a schedule of the salary and level of everyone in the scheduling group.;0;5;Randy;Q10044
+Person;Phillip Let's shoot for Tuesday at 11:45.;0;7;Phillip;Q10002
+Person; Greg, How about either next Tuesday or Thursday?;1;5;Greg;Q10043
+Person;Phillip Please cc the following distribution list with updates: Phillip Allen (pallen@enron.com);0;7;Phillip;Q10002
+Person;Phillip Please cc the following distribution list with updates: Phillip Allen (pallen@enron.com);64;77;Phillip Allen;Q10007
+Person;Mike Grigsby (mike.grigsby@enron.com);0;12;Mike Grigsby;Q10017
+Person;Keith Holst (kholst@enron.com);0;11;Keith Holst;Q10019
+Person;Monique Sanchez;0;15;Monique Sanchez;Q10034
+Person;Frank Ermis;0;11;Frank Ermis;Q10021
+Person;John Lavorato Thank you for your help Phillip Allen;0;13;John Lavorato;Q10022
+Person;John Lavorato Thank you for your help Phillip Allen;38;51;Phillip Allen;Q10007
+Person;---------------------- Forwarded by Phillip K Allen/HOU/ECT on 10/16/2000;36;51;Phillip K Allen;Q10001
+Person;--------------------------- Buckner, Buck <buck.buckner@honeywell.com> on 10/12/2000 01:12:21 PM;28;41;Buckner, Buck;Q10097
+Person;Phillip,;0;7;Phillip;Q10002
+Person;> Buck Buckner, P.E., MBA;2;14;Buck Buckner;Q10121
+Person; Mr. Buckner, For delivered gas behind San Diego, Enron Energy Services is the appropriate Enron entity.;5;12;Buckner;Q10111
+Person;I have forwarded your request to Zarin Imam at EES.;33;43;Zarin Imam;Q10098
+Person;Phillip Allen;0;13;Phillip Allen;Q10007
+Person;Lucy,;0;4;Lucy;Q10010
+Person;Phillip ---------------------- Forwarded by Phillip K Allen/HOU/ECT on 10/09/2000;0;7;Phillip;Q10002
+Person;Phillip ---------------------- Forwarded by Phillip K Allen/HOU/ECT on 10/09/2000;44;59;Phillip K Allen;Q10001
+Person;Phillip K Allen/HOU/ECT@ECT cc:;0;15;Phillip K Allen;Q10001
+Person;Beth Perlman/HOU/;0;12;Beth Perlman;Q10087
+Person;Phillip, Below is the issues & to do list as we go forward with documenting the requirements for consolidated physical/financial positions and transport trade capture.;0;7;Phillip;Q10002

@@ -1,0 +1,1203 @@
+Entity;Text;Start;End;Name
+Location;My suggestion for where to go is Austin.;33;39;Austin
+Person;Randy, Can you send me a schedule of the salary and level of everyone in the scheduling group.;0;5;Randy
+Person;Phillip Let's shoot for Tuesday at 11:45.;0;7;Phillip
+Time;Phillip Let's shoot for Tuesday at 11:45.;24;31;Tuesday
+Person; Greg, How about either next Tuesday or Thursday?;1;5;Greg
+Time; Greg, How about either next Tuesday or Thursday?;29;36;Tuesday
+Time; Greg, How about either next Tuesday or Thursday?;40;48;Thursday
+Person;Phillip Please cc the following distribution list with updates: Phillip Allen (pallen@enron.com);0;7;Phillip
+Person;Phillip Please cc the following distribution list with updates: Phillip Allen (pallen@enron.com);64;77;Phillip Allen
+Person;Mike Grigsby (mike.grigsby@enron.com);0;12;Mike Grigsby
+Person;Keith Holst (kholst@enron.com);0;11;Keith Holst
+Person;Monique Sanchez;0;15;Monique Sanchez
+Person;Frank Ermis;0;11;Frank Ermis
+Person;John Lavorato Thank you for your help Phillip Allen;0;13;John Lavorato
+Person;John Lavorato Thank you for your help Phillip Allen;38;51;Phillip Allen
+Time;any morning between 10 and 11:30;4;11;morning
+Time;any morning between 10 and 11:30;27;32;11:30
+Person;---------------------- Forwarded by Phillip K Allen/HOU/ECT on 10/16/2000;36;51;Phillip K Allen
+Date;---------------------- Forwarded by Phillip K Allen/HOU/ECT on 10/16/2000;63;73;10/16/2000
+Time;01:42;0;5;01:42
+Person;--------------------------- Buckner, Buck <buck.buckner@honeywell.com> on 10/12/2000 01:12:21 PM;28;41;Buckner, Buck
+Date;--------------------------- Buckner, Buck <buck.buckner@honeywell.com> on 10/12/2000 01:12:21 PM;74;84;10/12/2000
+Time;--------------------------- Buckner, Buck <buck.buckner@honeywell.com> on 10/12/2000 01:12:21 PM;85;96;01:12:21 PM
+Product;To: 'Pallen@Enron.com' <Pallen@Enron.com> cc: Subject: FW: fixed forward or other Collar floor gas price terms;95;98;gas
+Person;Phillip,;0;7;Phillip
+Product;As discussed during our phone conversation, In a Parallon 75 microturbine > power generation deal for a national accounts customer, I am developing a > proposal to sell power to customer at fixed or collar/floor price.;76;81;power
+Product;As discussed during our phone conversation, In a Parallon 75 microturbine > power generation deal for a national accounts customer, I am developing a > proposal to sell power to customer at fixed or collar/floor price.;169;174;power
+Product;so I need a corresponding term gas price for same.;31;34;gas
+Product;Microturbine is an > onsite generation product developed by Honeywell to generate electricity > on customer site (degen).;0;12;Microturbine
+Organization;Microturbine is an > onsite generation product developed by Honeywell to generate electricity > on customer site (degen).;60;69;Honeywell
+Product;using natural gas.;14;17;gas
+Product;In doing so, I need your > best fixed price forward gas price deal for 1, 3, 5, 7 and 10 years for >;52;55;gas
+Time;In doing so, I need your > best fixed price forward gas price deal for 1, 3, 5, 7 and 10 years for >;86;94;10 years
+Product;annual/seasonal supply to microturbines to generate fixed kWh for > customer.;26;39;microturbines
+Product;no risk forward gas price to make deal work.;16;19;gas
+Product;Therein comes Sempra energy > gas trading, truly you.;30;33;gas
+Location;We are proposing installing 180 - 240 units across a large number of > stores (60-100) in San Diego.;90;99;San Diego
+Time;For 6-8 hours a day Microturbine run time: >;8;13;hours
+Product;For 6-8 hours a day Microturbine run time: >;20;32;Microturbine
+Product;Gas requirement for 180 microturbines 227;0;3;Gas
+Product;Gas requirement for 180 microturbines 227;24;37;microturbines
+Product;> Gas requirement for 240 microturbines;2;5;Gas
+Product;> Gas requirement for 240 microturbines;26;39;microturbines
+Product;Gas will likely be consumed from May through September, during peak;0;3;Gas
+Time;Gas will likely be consumed from May through September, during peak;33;36;May
+Time;Gas will likely be consumed from May through September, during peak;45;54;September
+Product;Gas price required:;0;3;Gas
+Location;Burnertip price behind (LDC) San Diego Gas & Electric;29;38;San Diego
+Product;Burnertip price behind (LDC) San Diego Gas & Electric;39;42;Gas
+Person;> Buck Buckner, P.E., MBA;2;14;Buck Buckner
+Organization;> Honeywell Power Systems, Inc.;2;31;Honeywell Power Systems, Inc.
+Location;> Albuquerque, NM 87113;2;13;Albuquerque
+Person; Mr. Buckner, For delivered gas behind San Diego, Enron Energy Services is the appropriate Enron entity.;5;12;Buckner
+Product; Mr. Buckner, For delivered gas behind San Diego, Enron Energy Services is the appropriate Enron entity.;28;31;gas
+Location; Mr. Buckner, For delivered gas behind San Diego, Enron Energy Services is the appropriate Enron entity.;39;48;San Diego
+Organization; Mr. Buckner, For delivered gas behind San Diego, Enron Energy Services is the appropriate Enron entity.;50;71;Enron Energy Services
+Organization; Mr. Buckner, For delivered gas behind San Diego, Enron Energy Services is the appropriate Enron entity.;91;96;Enron
+Person;I have forwarded your request to Zarin Imam at EES.;33;43;Zarin Imam
+Organization;I have forwarded your request to Zarin Imam at EES.;47;50;EES
+Person;Phillip Allen;0;13;Phillip Allen
+Person;Lucy,;0;4;Lucy
+Person;Phillip ---------------------- Forwarded by Phillip K Allen/HOU/ECT on 10/09/2000;0;7;Phillip
+Person;Phillip ---------------------- Forwarded by Phillip K Allen/HOU/ECT on 10/09/2000;44;59;Phillip K Allen
+Date;Phillip ---------------------- Forwarded by Phillip K Allen/HOU/ECT on 10/09/2000;71;81;10/09/2000
+Time;02:16;0;5;02:16
+Person;--------------------------- Richard Burchfield;28;46;Richard Burchfield
+Date;10/06/2000 06:59 AM;0;10;10/06/2000
+Time;10/06/2000 06:59 AM;11;19;06:59 AM
+Person;Phillip K Allen/HOU/ECT@ECT cc:;0;15;Phillip K Allen
+Person;Beth Perlman/HOU/;0;12;Beth Perlman
+Person;Phillip, Below is the issues & to do list as we go forward with documenting the requirements for consolidated physical/financial positions and transport trade capture.;0;7;Phillip
+Person;"What we need to focus on is the first bullet in Allan's list; the need for a single set of requirements.";48;53;Allan
+Person;Although the meeting with Keith, on Wednesday, was informative the solution of creating a infinitely dynamic consolidated position screen, will be extremely difficult and time consuming.;26;31;Keith
+Time;Although the meeting with Keith, on Wednesday, was informative the solution of creating a infinitely dynamic consolidated position screen, will be extremely difficult and time consuming.;36;45;Wednesday
+Time;Throughout the meeting on Wednesday, Keith alluded to the inability to get consensus amongst the traders on the presentation of the consolidated position, so the solution was to make it so that a trader can arrange the position screen to their liking (much like Excel).;26;35;Wednesday
+Person;Throughout the meeting on Wednesday, Keith alluded to the inability to get consensus amongst the traders on the presentation of the consolidated position, so the solution was to make it so that a trader can arrange the position screen to their liking (much like Excel).;37;42;Keith
+Time;What needs to happen on Monday from 3 - 5 is a effort to design a desired layout for the consolidated position screen, this is critical.;24;30;Monday
+Person;Richard;0;7;Richard
+Person;Forwarded by Richard Burchfield/HOU/ECT on 10/06/2000;13;31;Richard Burchfield
+Date;Forwarded by Richard Burchfield/HOU/ECT on 10/06/2000;43;53;10/06/2000
+Time;08:34 AM;0;8;08:34 AM
+Person;Allan Severude 10/05/2000 06:03 PM;0;5;Allan
+Date;Allan Severude 10/05/2000 06:03 PM;15;25;10/05/2000
+Time;Allan Severude 10/05/2000 06:03 PM;26;34;06:03 PM
+Person;Richard Burchfield/HOU/ECT@ECT cc:;0;18;Richard Burchfield
+Person;Peggy Alix/HOU/ECT@ECT, Russ Severson/HOU/ECT@ECT,;0;10;Peggy Alix
+Person;Peggy Alix/HOU/ECT@ECT, Russ Severson/HOU/ECT@ECT,;24;37;Russ Severson
+Person;Scott Mills/HOU/;0;11;Scott Mills
+Person;Kenny Ha/HOU/ECT@ECT;0;8;Kenny Ha
+Product;Gas Daily for monthly index, Physical gas for Nymex, Physical gas for Inside Ferc, Physical gas for Mid market.;0;3;Gas
+Product;Gas Daily for monthly index, Physical gas for Nymex, Physical gas for Inside Ferc, Physical gas for Mid market.;38;41;gas
+Organization;Gas Daily for monthly index, Physical gas for Nymex, Physical gas for Inside Ferc, Physical gas for Mid market.;46;51;Nymex
+Product;Gas Daily for monthly index, Physical gas for Nymex, Physical gas for Inside Ferc, Physical gas for Mid market.;62;65;gas
+Organization;Gas Daily for monthly index, Physical gas for Nymex, Physical gas for Inside Ferc, Physical gas for Mid market.;70;81;Inside Ferc
+Product;Gas Daily for monthly index, Physical gas for Nymex, Physical gas for Inside Ferc, Physical gas for Mid market.;92;95;gas
+Product;Position and P&L aggregation across all gas desks.;40;43;gas
+Product;Ability to include the Gas Price book into TDS:;23;26;Gas
+Product;Valuation of Gas Daily options.;13;16;Gas
+Location;Deployment of TDS in Canada.;21;27;Canada
+Person;-- Allan.;3;8;Allan
+Person;Colleen is setting up a meeting tomorrow to discuss the direction for transport.;0;7;Colleen
+Person;---------------------- Forwarded by Phillip K Allen/HOU/ECT on 10/09/2000 02:00 PM;36;51;Phillip K Allen
+Date;---------------------- Forwarded by Phillip K Allen/HOU/ECT on 10/09/2000 02:00 PM;63;73;10/09/2000
+Time;---------------------- Forwarded by Phillip K Allen/HOU/ECT on 10/09/2000 02:00 PM;74;82;02:00 PM
+Person;Richard Burchfield;0;18;Richard Burchfield
+Date;10/06/2000 06:59 AM;0;10;10/06/2000
+Time;10/06/2000 06:59 AM;11;19;06:59 AM
+Person;Phillip K Allen/HOU/ECT@ECT cc:;0;15;Phillip K Allen
+Person;Beth Perlman/HOU/;0;12;Beth Perlman
+Person;Phillip, Below is the issues & to do list as we go forward with documenting the requirements for consolidated physical/financial positions and transport trade capture.;0;7;Phillip
+Person;"What we need to focus on is the first bullet in Allan's list; the need for a single set of requirements.";48;53;Allan
+Person;Although the meeting with Keith, on Wednesday, was informative the solution of creating a infinitely dynamic consolidated position screen, will be extremely difficult and time consuming.;26;31;Keith
+Time;Although the meeting with Keith, on Wednesday, was informative the solution of creating a infinitely dynamic consolidated position screen, will be extremely difficult and time consuming.;36;45;Wednesday
+Time;Throughout the meeting on Wednesday, Keith alluded to the inability to get consensus amongst the traders on the presentation of the consolidated position, so the solution was to make it so that a trader can arrange the position screen to their liking (much like Excel).;26;35;Wednesday
+Person;Throughout the meeting on Wednesday, Keith alluded to the inability to get consensus amongst the traders on the presentation of the consolidated position, so the solution was to make it so that a trader can arrange the position screen to their liking (much like Excel).;37;42;Keith
+Time;What needs to happen on Monday from 3 - 5 is a effort to design a desired layout for the consolidated position screen, this is critical.;24;30;Monday
+Person;Richard;0;7;Richard
+Person;Forwarded by Richard Burchfield/HOU/ECT on 10/06/2000;13;31;Richard Burchfield
+Date;Forwarded by Richard Burchfield/HOU/ECT on 10/06/2000;43;53;10/06/2000
+Time;08:34 AM;0;8;08:34 AM
+Person;Allan Severude 10/05/2000 06:03 PM;0;5;Allan
+Date;Allan Severude 10/05/2000 06:03 PM;15;25;10/05/2000
+Time;Allan Severude 10/05/2000 06:03 PM;26;34;06:03 PM
+Person;Richard Burchfield/HOU/ECT@ECT cc:;0;18;Richard Burchfield
+Person;Peggy Alix/HOU/ECT@ECT, Russ Severson/HOU/ECT@ECT,;0;10;Peggy Alix
+Person;Peggy Alix/HOU/ECT@ECT, Russ Severson/HOU/ECT@ECT,;24;37;Russ Severson
+Person;Scott Mills/HOU/;0;11;Scott Mills
+Person;Kenny Ha/HOU/ECT@ECT;0;8;Kenny Ha
+Product;Gas Daily for monthly index, Physical gas for Nymex, Physical gas for Inside Ferc, Physical gas for Mid market.;0;3;Gas
+Product;Gas Daily for monthly index, Physical gas for Nymex, Physical gas for Inside Ferc, Physical gas for Mid market.;38;41;gas
+Organization;Gas Daily for monthly index, Physical gas for Nymex, Physical gas for Inside Ferc, Physical gas for Mid market.;46;51;Nymex
+Product;Gas Daily for monthly index, Physical gas for Nymex, Physical gas for Inside Ferc, Physical gas for Mid market.;62;65;gas
+Organization;Gas Daily for monthly index, Physical gas for Nymex, Physical gas for Inside Ferc, Physical gas for Mid market.;70;81;Inside Ferc
+Product;Gas Daily for monthly index, Physical gas for Nymex, Physical gas for Inside Ferc, Physical gas for Mid market.;92;95;gas
+Product;Position and P&L aggregation across all gas desks.;40;43;gas
+Product;Ability to include the Gas Price book into TDS:;23;26;Gas
+Product;Valuation of Gas Daily options.;13;16;Gas
+Location;Deployment of TDS in Canada.;21;27;Canada
+Person;-- Allan.;3;8;Allan
+Person;Colleen is setting up a meeting tomorrow to discuss the direction for transport.;0;7;Colleen
+Person;Phillip ;0;7;Phillip
+Person;Phillip ;0;7;Phillip
+Person;---------------------- Forwarded by Phillip K Allen/HOU/ECT on 10/04/2000;36;51;Phillip K Allen
+Organization;Enron North America Corp.;0;5;Enron
+Location;Enron North America Corp.;6;19;North America
+Person;Phillip K Allen/HOU/ECT@ECT,;0;15;Phillip K Allen
+Person;Thomas A Martin/HOU/ECT@ECT, Scott Neal/HOU/ECT@ECT, John Arnold/HOU/ECT@ECT, Grant Masson/HOU/ECT@ECT;0;15;Thomas A Martin
+Person;Thomas A Martin/HOU/ECT@ECT, Scott Neal/HOU/ECT@ECT, John Arnold/HOU/ECT@ECT, Grant Masson/HOU/ECT@ECT;29;39;Scott Neal
+Person;Thomas A Martin/HOU/ECT@ECT, Scott Neal/HOU/ECT@ECT, John Arnold/HOU/ECT@ECT, Grant Masson/HOU/ECT@ECT;53;64;John Arnold
+Person;Thomas A Martin/HOU/ECT@ECT, Scott Neal/HOU/ECT@ECT, John Arnold/HOU/ECT@ECT, Grant Masson/HOU/ECT@ECT;78;90;Grant Masson
+Person;Murphy/HOU/ECT@ECT, Vladimir Gorny/HOU/ECT@ECT,;0;6;Murphy
+Person;Frank Hayden/Corp/Enron@Enron cc:;0;12;Frank Hayden
+Person;Rita Hennessy/NA/Enron@Enron, Ina Rangel/HOU/ECT@ECT, Laura;0;13;Rita Hennessy
+Person;Rita Hennessy/NA/Enron@Enron, Ina Rangel/HOU/ECT@ECT, Laura;30;40;Ina Rangel
+Person;Harder/Corp/Enron@Enron, Kimberly Brown/HOU/ECT@ECT, Araceli;25;39;Kimberly Brown
+Person;Romero/NA/Enron@Enron,;0;6;Romero
+Person;Kimberly Hillis/HOU/ECT@ect;0;15;Kimberly Hillis
+Time;Wednesday, October 11th Time: 2:30 - 3:30 Location:;0;9;Wednesday
+Time;Wednesday, October 11th Time: 2:30 - 3:30 Location:;11;18;October
+Time;Wednesday, October 11th Time: 2:30 - 3:30 Location:;30;34;2:30
+Time;Wednesday, October 11th Time: 2:30 - 3:30 Location:;37;41;3:30
+Person; Tim, mike grigsby is having problems with accessing the west power site.;1;4;Tim
+Person; Tim, mike grigsby is having problems with accessing the west power site.;6;18;mike grigsby
+Product; Tim, mike grigsby is having problems with accessing the west power site.;62;67;power
+Person;Phillip ;0;7;Phillip
+Person;---------------------- Forwarded by Phillip K Allen/HOU/ECT on 10/03/2000;36;51;Phillip K Allen
+Date;---------------------- Forwarded by Phillip K Allen/HOU/ECT on 10/03/2000;63;73;10/03/2000
+Time;04:30 PM;0;8;04:30 PM
+Person;--------------------------- George Richards <cbpres@austin.rr.com> on 10/03/2000 06:35:56 AM;28;43;George Richards
+Date;--------------------------- George Richards <cbpres@austin.rr.com> on 10/03/2000 06:35:56 AM;70;80;10/03/2000
+Time;--------------------------- George Richards <cbpres@austin.rr.com> on 10/03/2000 06:35:56 AM;81;92;06:35:56 AM
+Person;Phillip Allen <pallen@enron.com> cc:;0;13;Phillip Allen
+Person;Larry Lewter <retwell@mail.sanmarcos.net>;0;12;Larry Lewter
+Location;Investor's Alliance says that these demographics are similar to the package on San Marcos that you received earlier.;79;89;San Marcos
+Location;San Marcos;0;10;San Marcos
+Location;The property across the street from the Sagewood units in San Marcos is for sale and approved for 134 units.;58;68;San Marcos
+Money;The land is selling for $2.50 per square foot as it is one of only two remaining approved multifamily parcels in West San Marcos, which now has a moratorium on development.;24;29;$2.50
+Location;The land is selling for $2.50 per square foot as it is one of only two remaining approved multifamily parcels in West San Marcos, which now has a moratorium on development.;118;128;San Marcos
+Money;Several new studies we have looked at show that the rents for our duplexes and for these new units are going to be significantly higher, roughly $1.25 per square foot if leased for the entire unit on a 12-month lease and;145;150;$1.25
+Time;Several new studies we have looked at show that the rents for our duplexes and for these new units are going to be significantly higher, roughly $1.25 per square foot if leased for the entire unit on a 12-month lease and;202;210;12-month
+Money;$1.30 - $1.40 psf;0;17;$1.30 - $1.40 psf
+Time;if leased on a 12-month term, but by individual room.;15;23;12-month
+Money;The equity requirement is not yet known, but it would be likely to be $300,000 to secure the land.;70;78;$300,000
+Time;I will know more on this question later today.;40;45;today
+Person;Sincerely, George W. Richards President, Creekside Builders, LLC - winmail.dat  ---------------------- Forwarded by Phillip K Allen/HOU/ECT on 10/03/2000;11;29;George W. Richards
+Organization;Sincerely, George W. Richards President, Creekside Builders, LLC - winmail.dat  ---------------------- Forwarded by Phillip K Allen/HOU/ECT on 10/03/2000;41;64;Creekside Builders, LLC
+Person;Sincerely, George W. Richards President, Creekside Builders, LLC - winmail.dat  ---------------------- Forwarded by Phillip K Allen/HOU/ECT on 10/03/2000;116;131;Phillip K Allen
+Date;Sincerely, George W. Richards President, Creekside Builders, LLC - winmail.dat  ---------------------- Forwarded by Phillip K Allen/HOU/ECT on 10/03/2000;143;153;10/03/2000
+Time;04:13 PM --------------------------- Nancy Hall@ENRON;0;8;04:13 PM
+Person;Mark Whitt/NA/Enron@Enron, Phillip K Allen/HOU/ECT@ECT, Paul T;0;10;Mark Whitt
+Person;Mark Whitt/NA/Enron@Enron, Phillip K Allen/HOU/ECT@ECT, Paul T;27;42;Phillip K Allen
+Person;Lucci/NA/Enron@Enron, Paul Bieniawski/Corp/Enron@ENRON,;22;37;Paul Bieniawski
+Person;Jean Mrha/NA/Enron@Enron, Ina Rangel/HOU/ECT@ECT, Monica;0;9;Jean Mrha
+Person;Jean Mrha/NA/Enron@Enron, Ina Rangel/HOU/ECT@ECT, Monica;26;36;Ina Rangel
+Time;There will be a meeting on Tuesday, Oct. 10th at 4:00pm in EB3270 regarding Storage Strategies in the West.;27;34;Tuesday
+Time;There will be a meeting on Tuesday, Oct. 10th at 4:00pm in EB3270 regarding Storage Strategies in the West.;36;40;Oct.
+Time;There will be a meeting on Tuesday, Oct. 10th at 4:00pm in EB3270 regarding Storage Strategies in the West.;49;55;4:00pm
+Person;Nancy Hall;0;10;Nancy Hall
+Location;ENA Denver office;4;10;Denver
+Person; Brenda, Please use the second check as the October payment.;1;7;Brenda
+Time; Brenda, Please use the second check as the October payment.;44;51;October
+Person;Phillip;0;7;Phillip
+Person; Brenda, Please use the second check as my October payment.;1;7;Brenda
+Time; Brenda, Please use the second check as my October payment.;43;50;October
+Person;Phillip ;0;7;Phillip
+Person;---------------------- Forwarded by Phillip K Allen/HOU/ECT on 09/28/2000 01:09 PM ---------------------------;36;51;Phillip K Allen
+Date;---------------------- Forwarded by Phillip K Allen/HOU/ECT on 09/28/2000 01:09 PM ---------------------------;63;73;09/28/2000
+Time;---------------------- Forwarded by Phillip K Allen/HOU/ECT on 09/28/2000 01:09 PM ---------------------------;74;82;01:09 PM
+Person;From: Phillip K Allen 09/28/2000 10:56 AM Liane,;6;21;Phillip K Allen
+Date;From: Phillip K Allen 09/28/2000 10:56 AM Liane,;22;32;09/28/2000
+Time;From: Phillip K Allen 09/28/2000 10:56 AM Liane,;33;41;10:56 AM
+Person;From: Phillip K Allen 09/28/2000 10:56 AM Liane,;42;47;Liane
+Time;As we discussed yesterday, I am concerned there may have been an attempt to manipulate the El Paso San Juan monthly index.;16;25;yesterday
+Location;As we discussed yesterday, I am concerned there may have been an attempt to manipulate the El Paso San Juan monthly index.;91;107;El Paso San Juan
+Time;It appears that a single buyer entered the marketplace on both September 26 and 27 and paid above market prices ($4.70-$4.80) for San Juan gas.;63;72;September
+Money;It appears that a single buyer entered the marketplace on both September 26 and 27 and paid above market prices ($4.70-$4.80) for San Juan gas.;113;124;$4.70-$4.80
+Location;It appears that a single buyer entered the marketplace on both September 26 and 27 and paid above market prices ($4.70-$4.80) for San Juan gas.;130;138;San Juan
+Product;It appears that a single buyer entered the marketplace on both September 26 and 27 and paid above market prices ($4.70-$4.80) for San Juan gas.;139;142;gas
+Product;At the time of these trades, offers for physical gas at significantly (10 to 15 cents);49;52;gas
+Money;At the time of these trades, offers for physical gas at significantly (10 to 15 cents);77;85;15 cents
+Location;Additionally, these trades are out of line with the associated financial swaps for San Juan.;83;91;San Juan
+Time;We have compiled a list of financial and physical trades executed from September 25 to September 27.;71;80;September
+Time;We have compiled a list of financial and physical trades executed from September 25 to September 27.;87;96;September
+Organization;These are the complete list of trades from Enron Online (EOL), Enron's direct phone conversations, and three brokerage firms (Amerex, APB, and Prebon).;43;48;Enron
+Organization;These are the complete list of trades from Enron Online (EOL), Enron's direct phone conversations, and three brokerage firms (Amerex, APB, and Prebon).;63;68;Enron
+Organization;These are the complete list of trades from Enron Online (EOL), Enron's direct phone conversations, and three brokerage firms (Amerex, APB, and Prebon).;126;132;Amerex
+Organization;These are the complete list of trades from Enron Online (EOL), Enron's direct phone conversations, and three brokerage firms (Amerex, APB, and Prebon).;134;137;APB
+Organization;These are the complete list of trades from Enron Online (EOL), Enron's direct phone conversations, and three brokerage firms (Amerex, APB, and Prebon).;143;149;Prebon
+Product;We have also included a summary of gas daily prices to illustrate the value of San Juan based on several spread relationships.;35;38;gas
+Location;We have also included a summary of gas daily prices to illustrate the value of San Juan based on several spread relationships.;79;87;San Juan
+Location;The spread relationship between San Juan and other points;32;40;San Juan
+Time;is consistent between the end of September and October gas daily.;33;42;September
+Time;is consistent between the end of September and October gas daily.;47;54;October
+Product;is consistent between the end of September and October gas daily.;55;58;gas
+Organization;It is Enron's belief that the trades at $4.70 and higher were above market trades that should be excluded from the calculation of index.;6;11;Enron
+Money;It is Enron's belief that the trades at $4.70 and higher were above market trades that should be excluded from the calculation of index.;40;45;$4.70
+Person;Sincerely, Phillip Allen  Liane, As we discussed yesterday, I am concerned there has been an attempt to manipulate the El Paso San Juan monthly index.;11;24;Phillip Allen
+Person;Sincerely, Phillip Allen  Liane, As we discussed yesterday, I am concerned there has been an attempt to manipulate the El Paso San Juan monthly index.;26;31;Liane
+Time;Sincerely, Phillip Allen  Liane, As we discussed yesterday, I am concerned there has been an attempt to manipulate the El Paso San Juan monthly index.;49;58;yesterday
+Location;Sincerely, Phillip Allen  Liane, As we discussed yesterday, I am concerned there has been an attempt to manipulate the El Paso San Juan monthly index.;119;135;El Paso San Juan
+Time;A single buyer entered the marketplace on both September 26 and 27 and paid above market prices ($4.70-$4.80) for San Juan gas with the intent to distort the index.;47;56;September
+Money;A single buyer entered the marketplace on both September 26 and 27 and paid above market prices ($4.70-$4.80) for San Juan gas with the intent to distort the index.;97;108;$4.70-$4.80
+Location;A single buyer entered the marketplace on both September 26 and 27 and paid above market prices ($4.70-$4.80) for San Juan gas with the intent to distort the index.;114;122;San Juan
+Product;A single buyer entered the marketplace on both September 26 and 27 and paid above market prices ($4.70-$4.80) for San Juan gas with the intent to distort the index.;123;126;gas
+Product;At the time of these trades, offers for physical gas at significantly (10 to 15 cents);49;52;gas
+Money;At the time of these trades, offers for physical gas at significantly (10 to 15 cents);77;85;15 cents
+Location;Additionally, these trades are out of line with the associated financial swaps for San Juan.;83;91;San Juan
+Time;We have compiled a list of financial and physical trades executed from September 25 to September 27.;71;80;September
+Time;We have compiled a list of financial and physical trades executed from September 25 to September 27.;87;96;September
+Organization;These are the complete list of trades from Enron Online (EOL), Enron's direct phone conversations, and three brokerage firms (Amerex, APB, and Prebon).;43;48;Enron
+Organization;These are the complete list of trades from Enron Online (EOL), Enron's direct phone conversations, and three brokerage firms (Amerex, APB, and Prebon).;63;68;Enron
+Organization;These are the complete list of trades from Enron Online (EOL), Enron's direct phone conversations, and three brokerage firms (Amerex, APB, and Prebon).;126;132;Amerex
+Organization;These are the complete list of trades from Enron Online (EOL), Enron's direct phone conversations, and three brokerage firms (Amerex, APB, and Prebon).;134;137;APB
+Organization;These are the complete list of trades from Enron Online (EOL), Enron's direct phone conversations, and three brokerage firms (Amerex, APB, and Prebon).;143;149;Prebon
+Product;We have also included a summary of gas daily prices to illustrate the value of San Juan based on several spread relationships.;35;38;gas
+Location;We have also included a summary of gas daily prices to illustrate the value of San Juan based on several spread relationships.;79;87;San Juan
+Location;The spread relationship between San Juan and other points;32;40;San Juan
+Time;is consistent between the end of September and October gas daily.;33;42;September
+Time;is consistent between the end of September and October gas daily.;47;54;October
+Product;is consistent between the end of September and October gas daily.;55;58;gas
+Organization;It is Enron's belief that the trades at $4.70 and higher were above market trades that should be excluded from the calculation of index.;6;11;Enron
+Money;It is Enron's belief that the trades at $4.70 and higher were above market trades that should be excluded from the calculation of index.;40;45;$4.70
+Person;Sincerely, Phillip Allen  ----------------------;11;24;Phillip Allen
+Person;Forwarded by Phillip K Allen/HOU/ECT on 09/26/2000;13;28;Phillip K Allen
+Date;Forwarded by Phillip K Allen/HOU/ECT on 09/26/2000;40;50;09/26/2000
+Time;04:28 PM;0;8;04:28 PM
+Person;--------------------------- George Richards <cbpres@austin.rr.com> on 09/26/2000 01:18:45;28;43;George Richards
+Date;--------------------------- George Richards <cbpres@austin.rr.com> on 09/26/2000 01:18:45;70;80;09/26/2000
+Time;--------------------------- George Richards <cbpres@austin.rr.com> on 09/26/2000 01:18:45;81;89;01:18:45
+Person;Phillip Allen <pallen@enron.com> cc:;0;13;Phillip Allen
+Person;Larry Lewter <retwell@mail.sanmarcos.net>, Claudia L. Crocker;0;12;Larry Lewter
+Person;Larry Lewter <retwell@mail.sanmarcos.net>, Claudia L. Crocker;43;61;Claudia L. Crocker
+Organization;Each of the individual investors and all of the principals in Creekside would also personally guarantee the loans.;62;71;Creekside
+Organization;Unlike many real estate investment programs, none of the funds are used for fees to Creekside Builders, LLC.;84;107;Creekside Builders, LLC
+Time;These professional expenses will be incurred over the estimated 6 month design and approval period.;64;71;6 month
+Money;The $4,000 per month costs listed in the cash flow as part of land cost represent the extension fees due to the seller for up to 4 months of extensions on closing.;4;10;$4,000
+Time;The $4,000 per month costs listed in the cash flow as part of land cost represent the extension fees due to the seller for up to 4 months of extensions on closing.;129;137;4 months
+Money;With a land value equal to the purchase price of $680,000 this would mean a land loan of $476,000 with estimated monthly interest payments of $3,966, given a 10% annual interest rate, plus approximately 1.25% of the loan amount for closing costs and loan fees.;49;57;$680,000
+Money;With a land value equal to the purchase price of $680,000 this would mean a land loan of $476,000 with estimated monthly interest payments of $3,966, given a 10% annual interest rate, plus approximately 1.25% of the loan amount for closing costs and loan fees.;89;97;$476,000
+Money;With a land value equal to the purchase price of $680,000 this would mean a land loan of $476,000 with estimated monthly interest payments of $3,966, given a 10% annual interest rate, plus approximately 1.25% of the loan amount for closing costs and loan fees.;142;148;$3,966
+Location;Once the site plan is approved by the City of Austin, the City will require the development entity to post funds for fiscal improvements, referred to as the fiscals.;46;52;Austin
+Time;Releases can be granted once every 90 days;35;42;90 days
+Time;and you should expect that the release would occur 6 months after the start of lot improvement construction.;51;59;6 months
+Money;The lot improvement loan is typically 75% of the appraised value of a finished lot, which I suspect will be at least $20,000 and potentially as high as $25,000.;117;124;$20,000
+Money;The lot improvement loan is typically 75% of the appraised value of a finished lot, which I suspect will be at least $20,000 and potentially as high as $25,000.;152;159;$25,000
+Money;This would produce a loan amount of $15,000 on $20,000 per lot.;36;43;$15,000
+Money;This would produce a loan amount of $15,000 on $20,000 per lot.;47;54;$20,000
+Money;With estimated per lot improvement costs of $9,000, 'fiscals' at $2,000 and the land cost at $8,000 , total improved lot cost is $19,000 which means $0 to $4,000 per lot in total equity.;44;50;$9,000
+Money;With estimated per lot improvement costs of $9,000, 'fiscals' at $2,000 and the land cost at $8,000 , total improved lot cost is $19,000 which means $0 to $4,000 per lot in total equity.;65;71;$2,000
+Money;With estimated per lot improvement costs of $9,000, 'fiscals' at $2,000 and the land cost at $8,000 , total improved lot cost is $19,000 which means $0 to $4,000 per lot in total equity.;93;99;$8,000
+Money;With estimated per lot improvement costs of $9,000, 'fiscals' at $2,000 and the land cost at $8,000 , total improved lot cost is $19,000 which means $0 to $4,000 per lot in total equity.;129;136;$19,000
+Money;With estimated per lot improvement costs of $9,000, 'fiscals' at $2,000 and the land cost at $8,000 , total improved lot cost is $19,000 which means $0 to $4,000 per lot in total equity.;155;161;$4,000
+Money;Thus, the additional equity for the improvement loan would be $0-$184,000.;63;73;0-$184,000
+Money;If the first phase was say 40 units, the total lot improvement cost might average $31,000 per lot.;82;89;$31,000
+Money;Of this, probably $13,000 would be for improvements and $19,000 for the land cost.;18;25;$13,000
+Money;Of this, probably $13,000 would be for improvements and $19,000 for the land cost.;56;63;$19,000
+Money;The land loan for undeveloped lots would be 70% of the appraised raw lot value, which I would estimate as $10,000 per lot for a loan value of $7,000 per lot.;106;113;$10,000
+Money;The land loan for undeveloped lots would be 70% of the appraised raw lot value, which I would estimate as $10,000 per lot for a loan value of $7,000 per lot.;142;148;$7,000
+Money;Then the loan value for each improved lot would be $15,000 per lot.;51;58;$15,000
+Money;This would give you a total loan of $992,000, total cost of $1,232,645 for equity required of $241,000.;36;44;$992,000
+Money;This would give you a total loan of $992,000, total cost of $1,232,645 for equity required of $241,000.;60;70;$1,232,645
+Money;This would give you a total loan of $992,000, total cost of $1,232,645 for equity required of $241,000.;94;102;$241,000
+Organization;The General Partner will contract with Creekside Builders, LLC to construct the units and the fee to CB will include a construction management and overhead fee equal to;39;62;Creekside Builders, LLC
+Organization;These fees are the only monies to Creekside, Larry Lewter or myself prior to calculation of profit, except for a) direct reimbursement for partnership expenses and b) direct payment to CB for any subcontractor costs that it has to perform.;34;43;Creekside
+Person;These fees are the only monies to Creekside, Larry Lewter or myself prior to calculation of profit, except for a) direct reimbursement for partnership expenses and b) direct payment to CB for any subcontractor costs that it has to perform.;45;57;Larry Lewter
+Person;As you, and I presume Keith, want to be involved to learn as much as possible we would make every effort to be accommodating.;22;27;Keith
+Person;Sincerely, George Richards;11;26;George Richards
+Organization;President, Creekside Builders, LLC - winmail.dat;11;34;Creekside Builders, LLC
+Person;---------------------- Forwarded by Phillip K Allen/HOU/ECT on 09/26/2000;36;51;Phillip K Allen
+Date;---------------------- Forwarded by Phillip K Allen/HOU/ECT on 09/26/2000;63;73;09/26/2000
+Person;George Richards <cbpres@austin.rr.com> on 09/26/2000 01:18:45;0;15;George Richards
+Date;George Richards <cbpres@austin.rr.com> on 09/26/2000 01:18:45;42;52;09/26/2000
+Time;George Richards <cbpres@austin.rr.com> on 09/26/2000 01:18:45;53;61;01:18:45
+Person;Phillip Allen <pallen@enron.com> cc:;0;13;Phillip Allen
+Person;Larry Lewter <retwell@mail.sanmarcos.net>, Claudia L. Crocker;0;12;Larry Lewter
+Person;Larry Lewter <retwell@mail.sanmarcos.net>, Claudia L. Crocker;43;61;Claudia L. Crocker
+Organization;Each of the individual investors and all of the principals in Creekside would also personally guarantee the loans.;62;71;Creekside
+Organization;Unlike many real estate investment programs, none of the funds are used for fees to Creekside Builders, LLC.;84;107;Creekside Builders, LLC
+Time;These professional expenses will be incurred over the estimated 6 month design and approval period.;64;71;6 month
+Money;The $4,000 per month costs listed in the cash flow as part of land cost represent the extension fees due to the seller for up to 4 months of extensions on closing.;4;10;$4,000
+Time;The $4,000 per month costs listed in the cash flow as part of land cost represent the extension fees due to the seller for up to 4 months of extensions on closing.;129;137;4 months
+Money;With a land value equal to the purchase price of $680,000 this would mean a land loan of $476,000 with estimated monthly interest payments of $3,966, given a 10% annual interest rate, plus approximately 1.25% of the loan amount for closing costs and loan fees.;49;57;$680,000
+Money;With a land value equal to the purchase price of $680,000 this would mean a land loan of $476,000 with estimated monthly interest payments of $3,966, given a 10% annual interest rate, plus approximately 1.25% of the loan amount for closing costs and loan fees.;89;97;$476,000
+Money;With a land value equal to the purchase price of $680,000 this would mean a land loan of $476,000 with estimated monthly interest payments of $3,966, given a 10% annual interest rate, plus approximately 1.25% of the loan amount for closing costs and loan fees.;142;148;$3,966
+Location;Once the site plan is approved by the City of Austin, the City will require the development entity to post funds for fiscal improvements, referred to as the fiscals.;46;52;Austin
+Time;Releases can be granted once every 90 days;35;42;90 days
+Time;and you should expect that the release would occur 6 months after the start of lot improvement construction.;51;59;6 months
+Money;The lot improvement loan is typically 75% of the appraised value of a finished lot, which I suspect will be at least $20,000 and potentially as high as $25,000.;117;124;$20,000
+Money;The lot improvement loan is typically 75% of the appraised value of a finished lot, which I suspect will be at least $20,000 and potentially as high as $25,000.;152;159;$25,000
+Money;This would produce a loan amount of $15,000 on $20,000 per lot.;36;43;$15,000
+Money;This would produce a loan amount of $15,000 on $20,000 per lot.;47;54;$20,000
+Money;With estimated per lot improvement costs of $9,000, 'fiscals' at $2,000 and the land cost at $8,000 , total improved lot cost is $19,000 which means $0 to $4,000 per lot in total equity.;44;50;$9,000
+Money;With estimated per lot improvement costs of $9,000, 'fiscals' at $2,000 and the land cost at $8,000 , total improved lot cost is $19,000 which means $0 to $4,000 per lot in total equity.;65;71;$2,000
+Money;With estimated per lot improvement costs of $9,000, 'fiscals' at $2,000 and the land cost at $8,000 , total improved lot cost is $19,000 which means $0 to $4,000 per lot in total equity.;93;99;$8,000
+Money;With estimated per lot improvement costs of $9,000, 'fiscals' at $2,000 and the land cost at $8,000 , total improved lot cost is $19,000 which means $0 to $4,000 per lot in total equity.;129;136;$19,000
+Money;With estimated per lot improvement costs of $9,000, 'fiscals' at $2,000 and the land cost at $8,000 , total improved lot cost is $19,000 which means $0 to $4,000 per lot in total equity.;155;161;$4,000
+Money;Thus, the additional equity for the improvement loan would be $0-$184,000.;63;73;0-$184,000
+Money;If the first phase was say 40 units, the total lot improvement cost might average $31,000 per lot.;82;89;$31,000
+Money;Of this, probably $13,000 would be for improvements and $19,000 for the land cost.;18;25;$13,000
+Money;Of this, probably $13,000 would be for improvements and $19,000 for the land cost.;56;63;$19,000
+Money;The land loan for undeveloped lots would be 70% of the appraised raw lot value, which I would estimate as $10,000 per lot for a loan value of $7,000 per lot.;106;113;$10,000
+Money;The land loan for undeveloped lots would be 70% of the appraised raw lot value, which I would estimate as $10,000 per lot for a loan value of $7,000 per lot.;142;148;$7,000
+Money;Then the loan value for each improved lot would be $15,000 per lot.;51;58;$15,000
+Money;This would give you a total loan of $992,000, total cost of $1,232,645 for equity required of $241,000.;36;44;$992,000
+Money;This would give you a total loan of $992,000, total cost of $1,232,645 for equity required of $241,000.;60;70;$1,232,645
+Money;This would give you a total loan of $992,000, total cost of $1,232,645 for equity required of $241,000.;94;102;$241,000
+Organization;The General Partner will contract with Creekside Builders, LLC to construct the units and the fee to CB will include a construction management and overhead fee equal to;39;62;Creekside Builders, LLC
+Organization;These fees are the only monies to Creekside, Larry Lewter or myself prior to calculation of profit, except for a) direct reimbursement for partnership expenses and b) direct payment to CB for any subcontractor costs that it has to perform.;34;43;Creekside
+Person;These fees are the only monies to Creekside, Larry Lewter or myself prior to calculation of profit, except for a) direct reimbursement for partnership expenses and b) direct payment to CB for any subcontractor costs that it has to perform.;45;57;Larry Lewter
+Person;As you, and I presume Keith, want to be involved to learn as much as possible we would make every effort to be accommodating.;22;27;Keith
+Person;Sincerely, George Richards;11;26;George Richards
+Organization;President, Creekside Builders, LLC - winmail.dat;11;34;Creekside Builders, LLC
+Person;---------------------- Forwarded by Phillip K Allen/HOU/ECT on 09/26/2000;36;51;Phillip K Allen
+Date;---------------------- Forwarded by Phillip K Allen/HOU/ECT on 09/26/2000;63;73;09/26/2000
+Time;02:00 PM --------------------------- Reschedule;0;8;02:00 PM
+Person;Chairperson: Richard Burchfield Sent by:;13;31;Richard Burchfield
+Person;Cindy Cicchetti;0;15;Cindy Cicchetti
+Date;10/03/2000 02:30 PM;0;10;10/03/2000
+Date;End: 10/03/2000 03:30;5;15;10/03/2000
+Product;Gas Physical/Financail Positions - Room 2537;0;3;Gas
+Person;Fletcher J Sturm/HOU/ECT;0;16;Fletcher J Sturm
+Person;Scott Neal/HOU/ECT;0;10;Scott Neal
+Person;Phillip K Allen/HOU/ECT;0;15;Phillip K Allen
+Person;Allan Severude/HOU/ECT;0;5;Allan
+Person;Scott Mills/HOU/ECT;0;11;Scott Mills
+Person;Russ Severson/HOU/ECT;0;13;Russ Severson
+Person;Forwarded by Phillip K Allen/HOU/ECT on 09/26/2000;13;28;Phillip K Allen
+Date;Forwarded by Phillip K Allen/HOU/ECT on 09/26/2000;40;50;09/26/2000
+Time;02:00 PM --------------------------- Confirmation;0;8;02:00 PM
+Person;Chairperson: Richard Burchfield Sent by:;13;31;Richard Burchfield
+Person;Cindy Cicchetti;0;15;Cindy Cicchetti
+Date;10/03/2000 02:30 PM;0;10;10/03/2000
+Date;End: 10/03/2000 03:30;5;15;10/03/2000
+Product;Gas Physical/Financail Positions - Room 2537;0;3;Gas
+Person;Fletcher J Sturm/HOU/ECT;0;16;Fletcher J Sturm
+Person;Scott Neal/HOU/ECT;0;10;Scott Neal
+Person;Phillip K Allen/HOU/ECT;0;15;Phillip K Allen
+Person;Allan Severude/HOU/ECT;0;5;Allan
+Person;Scott Mills/HOU/ECT;0;11;Scott Mills
+Person;Russ Severson/HOU/ECT;0;13;Russ Severson
+Person;Fletcher J Sturm;0;16;Fletcher J Sturm
+Person;Scott Neal -;0;10;Scott Neal
+Person;Phillip K Allen -;0;15;Phillip K Allen
+Person;Allan Severude -;0;5;Allan
+Person;Scott Mills -;0;11;Scott Mills
+Person;Russ Severson -;0;13;Russ Severson
+Person;Forwarded by Phillip K Allen/HOU/ECT on 09/26/2000 02:00 PM --------------------------- Reschedule;13;28;Phillip K Allen
+Date;Forwarded by Phillip K Allen/HOU/ECT on 09/26/2000 02:00 PM --------------------------- Reschedule;40;50;09/26/2000
+Time;Forwarded by Phillip K Allen/HOU/ECT on 09/26/2000 02:00 PM --------------------------- Reschedule;51;59;02:00 PM
+Person;Chairperson: Richard Burchfield Sent by:;13;31;Richard Burchfield
+Person;Cindy Cicchetti Start: 09/27/2000 02:00 PM;0;15;Cindy Cicchetti
+Date;Cindy Cicchetti Start: 09/27/2000 02:00 PM;23;33;09/27/2000
+Time;Cindy Cicchetti Start: 09/27/2000 02:00 PM;34;42;02:00 PM
+Date;End: 09/27/2000 03:00;5;15;09/27/2000
+Product;Gas Trading Vision Meeting - Room;0;3;Gas
+Person;Phillip K Allen/HOU/ECT@ECT Hunter S Shively/HOU/ECT@ECT Scott Mills/HOU/ECT@ECT;0;15;Phillip K Allen
+Person;Phillip K Allen/HOU/ECT@ECT Hunter S Shively/HOU/ECT@ECT Scott Mills/HOU/ECT@ECT;57;68;Scott Mills
+Person;Allan Severude/HOU/ECT@ECT;0;5;Allan
+Person;Jeffrey C Gossett/HOU/ECT@ECT Colleen Sullivan/HOU/ECT@ECT Russ Severson/HOU/ECT@ECT;0;17;Jeffrey C Gossett
+Person;Jeffrey C Gossett/HOU/ECT@ECT Colleen Sullivan/HOU/ECT@ECT Russ Severson/HOU/ECT@ECT;30;37;Colleen
+Person;Jeffrey C Gossett/HOU/ECT@ECT Colleen Sullivan/HOU/ECT@ECT Russ Severson/HOU/ECT@ECT;59;72;Russ Severson
+Person;Russell Long/HOU/ECT@ECT;0;12;Russell Long
+Person;Forwarded by Phillip K Allen/HOU/ECT on 09/26/2000;13;28;Phillip K Allen
+Date;Forwarded by Phillip K Allen/HOU/ECT on 09/26/2000;40;50;09/26/2000
+Time;02:00 PM --------------------------- Confirmation;0;8;02:00 PM
+Person;Chairperson: Richard Burchfield Sent by:;13;31;Richard Burchfield
+Person;Cindy Cicchetti Start: 09/27/2000 02:00 PM;0;15;Cindy Cicchetti
+Date;Cindy Cicchetti Start: 09/27/2000 02:00 PM;23;33;09/27/2000
+Time;Cindy Cicchetti Start: 09/27/2000 02:00 PM;34;42;02:00 PM
+Date;End: 09/27/2000 03:00;5;15;09/27/2000
+Product;Gas Trading Vision Meeting - Room;0;3;Gas
+Person;Phillip K Allen/HOU/ECT@ECT Hunter S Shively/HOU/ECT@ECT Scott Mills/HOU/ECT@ECT;0;15;Phillip K Allen
+Person;Phillip K Allen/HOU/ECT@ECT Hunter S Shively/HOU/ECT@ECT Scott Mills/HOU/ECT@ECT;57;68;Scott Mills
+Person;Allan Severude/HOU/ECT@ECT;0;5;Allan
+Person;Jeffrey C Gossett/HOU/ECT@ECT Colleen Sullivan/HOU/ECT@ECT Russ Severson/HOU/ECT@ECT;0;17;Jeffrey C Gossett
+Person;Jeffrey C Gossett/HOU/ECT@ECT Colleen Sullivan/HOU/ECT@ECT Russ Severson/HOU/ECT@ECT;30;37;Colleen
+Person;Jeffrey C Gossett/HOU/ECT@ECT Colleen Sullivan/HOU/ECT@ECT Russ Severson/HOU/ECT@ECT;59;72;Russ Severson
+Person;Russell Long/HOU/ECT@ECT;0;12;Russell Long
+Person;Phillip K Allen -;0;15;Phillip K Allen
+Person;Scott Mills -;0;11;Scott Mills
+Person;Allan Severude -;0;5;Allan
+Person;Jeffrey C Gossett;0;17;Jeffrey C Gossett
+Person;Colleen Sullivan -;0;7;Colleen
+Person;Russ Severson -;0;13;Russ Severson
+Person;Russell Long -;0;12;Russell Long
+Person;Forwarded by Phillip K Allen/HOU/ECT on 09/26/2000 02:00 PM --------------------------- Reschedule;13;28;Phillip K Allen
+Date;Forwarded by Phillip K Allen/HOU/ECT on 09/26/2000 02:00 PM --------------------------- Reschedule;40;50;09/26/2000
+Time;Forwarded by Phillip K Allen/HOU/ECT on 09/26/2000 02:00 PM --------------------------- Reschedule;51;59;02:00 PM
+Person;Chairperson: Richard Burchfield Sent by:;13;31;Richard Burchfield
+Person;Cindy Cicchetti Start: 09/28/2000 01:00 PM End: 09/28/2000 02:00;0;15;Cindy Cicchetti
+Date;Cindy Cicchetti Start: 09/28/2000 01:00 PM End: 09/28/2000 02:00;23;33;09/28/2000
+Time;Cindy Cicchetti Start: 09/28/2000 01:00 PM End: 09/28/2000 02:00;34;42;01:00 PM
+Date;Cindy Cicchetti Start: 09/28/2000 01:00 PM End: 09/28/2000 02:00;48;58;09/28/2000
+Time;Cindy Cicchetti Start: 09/28/2000 01:00 PM End: 09/28/2000 02:00;59;64;02:00
+Product;Gas Physical/Financail Positions - Room 2537;0;3;Gas
+Person;Fletcher J Sturm/HOU/ECT;0;16;Fletcher J Sturm
+Person;Scott Neal/HOU/ECT;0;10;Scott Neal
+Person;Phillip K Allen/HOU/ECT;0;15;Phillip K Allen
+Person;Allan Severude/HOU/ECT;0;5;Allan
+Person;Scott Mills/HOU/ECT;0;11;Scott Mills
+Person;Russ Severson/HOU/ECT;0;13;Russ Severson
+Person;Forwarded by Phillip K Allen/HOU/ECT on 09/26/2000;13;28;Phillip K Allen
+Date;Forwarded by Phillip K Allen/HOU/ECT on 09/26/2000;40;50;09/26/2000
+Time;02:00 PM --------------------------- Confirmation;0;8;02:00 PM
+Person;Chairperson: Richard Burchfield Sent by:;13;31;Richard Burchfield
+Person;Cindy Cicchetti Start: 09/28/2000 01:00 PM End: 09/28/2000 02:00;0;15;Cindy Cicchetti
+Date;Cindy Cicchetti Start: 09/28/2000 01:00 PM End: 09/28/2000 02:00;23;33;09/28/2000
+Time;Cindy Cicchetti Start: 09/28/2000 01:00 PM End: 09/28/2000 02:00;34;42;01:00 PM
+Date;Cindy Cicchetti Start: 09/28/2000 01:00 PM End: 09/28/2000 02:00;48;58;09/28/2000
+Time;Cindy Cicchetti Start: 09/28/2000 01:00 PM End: 09/28/2000 02:00;59;64;02:00
+Product;Gas Physical/Financail Positions - Room 2537;0;3;Gas
+Person;Fletcher J Sturm/HOU/ECT;0;16;Fletcher J Sturm
+Person;Scott Neal/HOU/ECT;0;10;Scott Neal
+Person;Phillip K Allen/HOU/ECT;0;15;Phillip K Allen
+Person;Allan Severude/HOU/ECT;0;5;Allan
+Person;Scott Mills/HOU/ECT;0;11;Scott Mills
+Person;Russ Severson/HOU/ECT;0;13;Russ Severson
+Person;Fletcher J Sturm;0;16;Fletcher J Sturm
+Person;Scott Neal -;0;10;Scott Neal
+Person;Phillip K Allen -;0;15;Phillip K Allen
+Person;Allan Severude -;0;5;Allan
+Person;Scott Mills -;0;11;Scott Mills
+Person;Russ Severson ->;0;13;Russ Severson
+Person;Forwarded by Phillip K Allen/HOU/ECT on 09/26/2000 02:00 PM ---------------------------;13;28;Phillip K Allen
+Date;Forwarded by Phillip K Allen/HOU/ECT on 09/26/2000 02:00 PM ---------------------------;40;50;09/26/2000
+Time;Forwarded by Phillip K Allen/HOU/ECT on 09/26/2000 02:00 PM ---------------------------;51;59;02:00 PM
+Person;From: Cindy Cicchetti;6;21;Cindy Cicchetti
+Date;09/26/2000;0;10;09/26/2000
+Person;Phillip K Allen/HOU/ECT@ECT, Hunter S Shively/HOU/ECT@ECT,;0;15;Phillip K Allen
+Person;Scott Mills/HOU/ECT@ECT, Allan Severude/HOU/ECT@ECT, Jeffrey C Gossett/HOU/ECT@ECT,;0;11;Scott Mills
+Person;Scott Mills/HOU/ECT@ECT, Allan Severude/HOU/ECT@ECT, Jeffrey C Gossett/HOU/ECT@ECT,;25;30;Allan
+Person;Scott Mills/HOU/ECT@ECT, Allan Severude/HOU/ECT@ECT, Jeffrey C Gossett/HOU/ECT@ECT,;53;70;Jeffrey C Gossett
+Person;Colleen Sullivan/HOU/ECT@ECT, Russ Severson/HOU/ECT@ECT, Jayant;0;7;Colleen
+Person;Colleen Sullivan/HOU/ECT@ECT, Russ Severson/HOU/ECT@ECT, Jayant;30;43;Russ Severson
+Person;Russell Long;0;12;Russell Long
+Product;Gas Trading Vision mtg.;0;3;Gas
+Time;This meeting has been moved to 4:00 on Wed.;31;35;4:00
+Time;This meeting has been moved to 4:00 on Wed.;39;42;Wed
+Person;Reagan, Just wanted to give you an update.;0;6;Reagan
+Person;Kipp Flores is working on the construction drawings.;0;11;Kipp Flores
+Person;Phillip;0;7;Phillip
+Organization;Nymex expiration is during this time frame.;0;5;Nymex
+Person;---------------------- Forwarded by Phillip K Allen/HOU/ECT on 09/26/2000;36;51;Phillip K Allen
+Date;---------------------- Forwarded by Phillip K Allen/HOU/ECT on 09/26/2000;63;73;09/26/2000
+Time;12:08 PM --------------------------- Invitation;0;8;12:08 PM
+Person;Chairperson: Richard Burchfield Sent by:;13;31;Richard Burchfield
+Person;Cindy Cicchetti;0;15;Cindy Cicchetti
+Date;Start: 09/27/2000;7;17;09/27/2000
+Time;11:30 AM;0;5;11:30
+Date;End: 09/27/2000;5;15;09/27/2000
+Time;12:30 PM Description:;0;8;12:30 PM
+Product;Gas Trading Vision Meeting - Room EB2556;0;3;Gas
+Person;Phillip K Allen/HOU/ECT;0;15;Phillip K Allen
+Person;Scott Mills/HOU/ECT;0;11;Scott Mills
+Person;Allan Severude/HOU/ECT;0;5;Allan
+Person;Jeffrey C Gossett/HOU/ECT;0;17;Jeffrey C Gossett
+Person;Colleen Sullivan/HOU/ECT;0;7;Colleen
+Person;Russ Severson/HOU/ECT;0;13;Russ Severson
+Person;Russell Long/HOU/ECT;0;12;Russell Long
+Person;---------------------- Forwarded by Phillip K Allen/HOU/ECT on 09/26/2000;36;51;Phillip K Allen
+Date;---------------------- Forwarded by Phillip K Allen/HOU/ECT on 09/26/2000;63;73;09/26/2000
+Time;12:07 PM ---------------------------;0;8;12:07 PM
+Person;From: Cindy Cicchetti;6;21;Cindy Cicchetti
+Date;09/26/2000 09:23 AM;0;10;09/26/2000
+Time;09/26/2000 09:23 AM;11;19;09:23 AM
+Person;Phillip K Allen/HOU/ECT@ECT, Hunter S Shively/HOU/ECT@ECT,;0;15;Phillip K Allen
+Person;Scott Mills/HOU/ECT@ECT, Allan Severude/HOU/ECT@ECT, Russ Severson/HOU/;0;11;Scott Mills
+Person;Scott Mills/HOU/ECT@ECT, Allan Severude/HOU/ECT@ECT, Russ Severson/HOU/;25;30;Allan
+Person;Scott Mills/HOU/ECT@ECT, Allan Severude/HOU/ECT@ECT, Russ Severson/HOU/;53;66;Russ Severson
+Person;Fletcher J Sturm/HOU/ECT@ECT,;0;16;Fletcher J Sturm
+Person;Scott Neal/HOU/ECT@ECT cc: Subject:;0;10;Scott Neal
+Product;Gas Physical/Financial Position;0;3;Gas
+Time;It will take place on Thursday, 9/28 from 3:00 - 4:00 in Room EB2537.;22;30;Thursday
+Time;It will take place on Thursday, 9/28 from 3:00 - 4:00 in Room EB2537.;49;53;4:00
+Person; ---------------------- Forwarded by Phillip K Allen/HOU/ECT on 09/26/2000 11:57 AM --------------------------- BS Stone <bs_stone@yahoo.com;37;52;Phillip K Allen
+Date; ---------------------- Forwarded by Phillip K Allen/HOU/ECT on 09/26/2000 11:57 AM --------------------------- BS Stone <bs_stone@yahoo.com;64;74;09/26/2000
+Date;> on 09/26/2000 04:47:40 AM;5;15;09/26/2000
+Time;> on 09/26/2000 04:47:40 AM;16;27;04:47:40 AM
+Person;jeff <jeff@freeyellow.com> cc: Phillip K Allen;31;46;Phillip K Allen
+Person; <Phillip.K.Allen@enron.com> Subject: closing Jeff, ?;46;50;Jeff
+Time;Is the closing today??;15;20;today
+Person;I will go back to mine and Phillip Allen's;27;40;Phillip Allen
+Person;Brenda ? ?;0;6;Brenda
+Person;Phillip ---------------------- Forwarded by Phillip K Allen/HOU/ECT on 09/25/2000;0;7;Phillip
+Person;Phillip ---------------------- Forwarded by Phillip K Allen/HOU/ECT on 09/25/2000;44;59;Phillip K Allen
+Date;Phillip ---------------------- Forwarded by Phillip K Allen/HOU/ECT on 09/25/2000;71;81;09/25/2000
+Time;02:01 PM --------------------------- Reschedule;0;8;02:01 PM
+Person;Chairperson: Richard Burchfield Sent by:;13;31;Richard Burchfield
+Person;Cindy Cicchetti Start: 09/28/2000 01:00 PM End: 09/28/2000 02:00;0;15;Cindy Cicchetti
+Date;Cindy Cicchetti Start: 09/28/2000 01:00 PM End: 09/28/2000 02:00;23;33;09/28/2000
+Time;Cindy Cicchetti Start: 09/28/2000 01:00 PM End: 09/28/2000 02:00;34;42;01:00 PM
+Date;Cindy Cicchetti Start: 09/28/2000 01:00 PM End: 09/28/2000 02:00;48;58;09/28/2000
+Time;Cindy Cicchetti Start: 09/28/2000 01:00 PM End: 09/28/2000 02:00;59;64;02:00
+Product;Gas Physical/Financail Positions - Room 2537;0;3;Gas
+Person;Fletcher J Sturm/HOU/ECT;0;16;Fletcher J Sturm
+Person;Scott Neal/HOU/ECT;0;10;Scott Neal
+Person;Phillip K Allen/HOU/ECT;0;15;Phillip K Allen
+Person;Allan Severude/HOU/ECT;0;5;Allan
+Person;Scott Mills/HOU/ECT;0;11;Scott Mills
+Person;Russ Severson/HOU/ECT;0;13;Russ Severson
+Person;The meeting with Richard Burchfield/HOU/ECT was rescheduled.;17;35;Richard Burchfield
+Date;On 09/28/2000 03:00:00 PM CDT;3;13;09/28/2000
+Person;With: Richard Burchfield/HOU/ECT (Chairperson);6;24;Richard Burchfield
+Person;Fletcher J Sturm/HOU/ECT (Invited);0;16;Fletcher J Sturm
+Person;Scott Neal/HOU/ECT (Invited);0;10;Scott Neal
+Person;Phillip K Allen/HOU/ECT (Invited);0;15;Phillip K Allen
+Person;Allan Severude/HOU/ECT (Invited) Scott Mills/HOU/ECT (Invited);0;5;Allan
+Person;Allan Severude/HOU/ECT (Invited) Scott Mills/HOU/ECT (Invited);33;44;Scott Mills
+Person;Russ Severson/HOU/ECT (Invited);0;13;Russ Severson
+Product;Gas Physical/Financail Positions - Room 2537  ;0;3;Gas
+Person;---------------------- Forwarded by Phillip K Allen/HOU/ECT on 09/25/2000 02:00 PM --------------------------- Invitation;36;51;Phillip K Allen
+Date;---------------------- Forwarded by Phillip K Allen/HOU/ECT on 09/25/2000 02:00 PM --------------------------- Invitation;63;73;09/25/2000
+Time;---------------------- Forwarded by Phillip K Allen/HOU/ECT on 09/25/2000 02:00 PM --------------------------- Invitation;74;82;02:00 PM
+Person;Chairperson: Richard Burchfield Sent by:;13;31;Richard Burchfield
+Person;Cindy Cicchetti;0;15;Cindy Cicchetti
+Date;Start: 09/27/2000 01:00 PM;7;17;09/27/2000
+Time;Start: 09/27/2000 01:00 PM;18;26;01:00 PM
+Date;End: 09/27/2000 02:00;5;15;09/27/2000
+Time;End: 09/27/2000 02:00;16;21;02:00
+Product;Gas Physical/Financail Positions - Room 2537;0;3;Gas
+Person;Fletcher J Sturm/HOU/ECT;0;16;Fletcher J Sturm
+Person;Scott Neal/HOU/ECT;0;10;Scott Neal
+Person;Phillip K Allen/HOU/ECT;0;15;Phillip K Allen
+Person;Allan Severude/HOU/ECT;0;5;Allan
+Person;Scott Mills/HOU/ECT;0;11;Scott Mills
+Person;Russ Severson/HOU/ECT;0;13;Russ Severson
+Person;Greg, Happy B-day.;0;4;Greg
+Person;Keith Kathy,;0;5;Keith
+Person;Keith Kathy,;6;11;Kathy
+Product;Regarding the guest password for gas daily, can you please relay the information to Mike Grigsby at 37031 so he can pass it along to the user at gas daily today.;33;36;gas
+Person;Regarding the guest password for gas daily, can you please relay the information to Mike Grigsby at 37031 so he can pass it along to the user at gas daily today.;84;96;Mike Grigsby
+Product;Regarding the guest password for gas daily, can you please relay the information to Mike Grigsby at 37031 so he can pass it along to the user at gas daily today.;145;148;gas
+Time;Regarding the guest password for gas daily, can you please relay the information to Mike Grigsby at 37031 so he can pass it along to the user at gas daily today.;155;160;today
+Time;I will be out of the office on Friday.;31;37;Friday
+Person;Phillip;0;7;Phillip
+Location;John, Denver's short rockies position beyond 2002 is created by their Trailblazer transport.;6;12;Denver
+Time;They are scrubbing all their books and booking the Hubert deal on Wednesday and Thursday.;66;75;Wednesday
+Time;They are scrubbing all their books and booking the Hubert deal on Wednesday and Thursday.;80;88;Thursday
+Person;Phillip;0;7;Phillip
+Person;Jim, Is there going to be a conference call or some type of weekly meeting about all the regulatory issues facing California this week?;0;3;Jim
+Location;Jim, Is there going to be a conference call or some type of weekly meeting about all the regulatory issues facing California this week?;114;124;California
+Time;Jim, Is there going to be a conference call or some type of weekly meeting about all the regulatory issues facing California this week?;130;134;week
+Product;Can you make sure the gas desk is included.;22;25;gas
+Person;Phillip;0;7;Phillip
+Person;George,;0;6;George
+Person;Below is a list of questions that Keith and I had regarding the Westgate project:;34;39;Keith
+Organization;What is the relationship of Creekside Builders to the project?;28;46;Creekside Builders
+Organization;Does Creekside have specific procedures for dealing with subcontractors, vendors, and other professionals?;5;14;Creekside
+Person;Phillip;0;7;Phillip
+Person; ---------------------- Forwarded by Phillip K Allen/HOU/ECT on 09/19/2000;37;52;Phillip K Allen
+Date; ---------------------- Forwarded by Phillip K Allen/HOU/ECT on 09/19/2000;64;74;09/19/2000
+Person;--------------------------- George Richards <cbpres@austin.rr.com> on 09/08/2000 05:21:49 AM;28;43;George Richards
+Date;--------------------------- George Richards <cbpres@austin.rr.com> on 09/08/2000 05:21:49 AM;70;80;09/08/2000
+Time;--------------------------- George Richards <cbpres@austin.rr.com> on 09/08/2000 05:21:49 AM;81;92;05:21:49 AM
+Person;Phillip Allen <pallen@enron.com> cc:;0;13;Phillip Allen
+Person;Larry Lewter <retwell@mail.sanmarcos.net>;0;12;Larry Lewter
+Person;Westgate Proforma-Phillip Allen.xls;18;25;Phillip
+Location;is Austin that we told you about.;3;9;Austin
+Time;As you can tell from the proforma this project should produce a truly exceptional return of over 40% per year over 3 years.;115;122;3 years
+Location;Austin and we are introducing new product;0;6;Austin
+Location;This is the best project in terms of risk and reward that we have uncovered to date in the Austin market.;91;97;Austin
+Location;it is in the Smart Growth Corridor area designated by the City of Austin for preferred development, this will be fast tracked and should be complete in less than 6 months.;66;72;Austin
+Time;it is in the Smart Growth Corridor area designated by the City of Austin for preferred development, this will be fast tracked and should be complete in less than 6 months.;162;170;6 months
+Location;Austin, which included a detention/retention and filtration pond and street widening.;0;6;Austin
+Product;The Lone Star gas line easement in the lower portion of the property is not expected to impact sales significantly.;14;17;gas
+Time;The seller accepted our offer Thursday evening with a price of $680,000 and an extended escrow.;30;38;Thursday
+Money;The seller accepted our offer Thursday evening with a price of $680,000 and an extended escrow.;63;71;$680,000
+Money;This analysis shows your investment at $700,000 for a 50% interest in the profits of the project.;39;47;$700,000
+Location;As we discussed in San Marcos, we can also discuss having you invest only in the lots, sell the lots to the construction entity with your profit in the lot.;19;29;San Marcos
+Person;Larry Lewter knows an expert in the field in San Antonio if you do not know anyone.;0;12;Larry Lewter
+Location;Larry Lewter knows an expert in the field in San Antonio if you do not know anyone.;45;56;San Antonio
+Organization;I will send you a package on the property that was prepared by the broker, by Airborne Express today for Saturday delivery.;78;94;Airborne Express
+Time;I will send you a package on the property that was prepared by the broker, by Airborne Express today for Saturday delivery.;95;100;today
+Time;I will send you a package on the property that was prepared by the broker, by Airborne Express today for Saturday delivery.;105;113;Saturday
+Location;A small freakish wind storm with severe 60+mpg downdrafts hit the South part of Austin where we are building 10 town homes.;80;86;Austin
+Time;The City shut down the project for a week and it took another week to get every thing back on tract.;37;41;week
+Time;The City shut down the project for a week and it took another week to get every thing back on tract.;62;66;week
+Time;Then last week I had to take my wife to emergency.;10;14;week
+Time;past week..;5;9;week
+Person;George W. Richards;0;18;George W. Richards
+Organization;Creekside Builders, LLC - Westgate Proforma-Phillip Allen.xls;0;23;Creekside Builders, LLC
+Person;Creekside Builders, LLC - Westgate Proforma-Phillip Allen.xls;44;51;Phillip
+Person; George, Here sales numbers from Reagan: As you can see his units sold at a variety of prices per square foot.;1;7;George
+Person; George, Here sales numbers from Reagan: As you can see his units sold at a variety of prices per square foot.;33;39;Reagan
+Person;I will follow up with an email and phone call about Cherry Creek.;52;64;Cherry Creek
+Person;I am sure Deborah Yates let you know;10;23;Deborah Yates
+Person;Phillip Allen;0;13;Phillip Allen
+Person;Jeff, What is up with Burnet?;0;4;Jeff
+Person;Jeff, What is up with Burnet?;22;28;Burnet
+Person;Phillip;0;7;Phillip
+Person;Jeff, I need to see the site plan for Burnet.;0;4;Jeff
+Person;Jeff, I need to see the site plan for Burnet.;38;44;Burnet
+Person;approval from Brenda Key Stone before I can sell this property;14;20;Brenda
+Person;Phillip Lucy,;0;12;Phillip Lucy
+Person; Brenda, I checked my records and I mailed check #1178 for the normal amount on August 28th.;1;7;Brenda
+Time; Brenda, I checked my records and I mailed check #1178 for the normal amount on August 28th.;80;91;August 28th
+Location;#29, College Station, TX 77845.;5;20;College Station
+Time;If the first one shows up you can treat the 2nd as payment for October.;63;70;October
+Person;Phillip Lucy, You wrote fewer checks this month.;0;12;Phillip Lucy
+Time;June;0;4;June
+Time;July August;0;4;July
+Time;July August;5;11;August
+Time;Here are my questions on the August bank statement (attached): 1.;29;35;August
+Person;Lucy;0;4;Lucy
+Time;6.;0;2;6.
+Person;Phillip ;0;7;Phillip
+Person;---------------------- Forwarded by Phillip K Allen/HOU/ECT on 09/12/2000;36;51;Phillip K Allen
+Date;---------------------- Forwarded by Phillip K Allen/HOU/ECT on 09/12/2000;63;73;09/12/2000
+Time;11:22 AM;0;8;11:22 AM
+Date;09/11/2000;0;10;09/11/2000
+Person;Phillip K Allen/HOU/ECT@ECT cc:;0;15;Phillip K Allen
+Person;Phillip, Attached is the list.;0;7;Phillip
+Person;Thanks, Mike  http://www.hearme.com/vc2/?chnlOwnr=pallen@enron.com ;8;12;Mike
+Person;Forwarded by Phillip K Allen/HOU/ECT on 05/02/2001 05:26 AM;13;28;Phillip K Allen
+Time;Forwarded by Phillip K Allen/HOU/ECT on 05/02/2001 05:26 AM;51;56;05:26
+Person;Ina Rangel 05/01/2001;0;10;Ina Rangel
+Date;Ina Rangel 05/01/2001;11;21;05/01/2001
+Time;12:24 PM;0;5;12:24
+Person;Phillip K Allen/HOU/ECT@ECT cc:;0;15;Phillip K Allen
+Person;Full Name: Phillip Allen;11;24;Phillip Allen
+Product;(Desktop, Laptop, Both);0;9;(Desktop,
+Product;(Desktop, Laptop, Both);10;17;Laptop,
+Time;What are your normal work hours?;26;31;hours
+Time;From: 7:00 AM;6;10;7:00
+Time;5:00 PM;0;4;5:00
+Person; ---------------------- Forwarded by Phillip K Allen/HOU/ECT on 09/11/2000;37;52;Phillip K Allen
+Date; ---------------------- Forwarded by Phillip K Allen/HOU/ECT on 09/11/2000;64;74;09/11/2000
+Time;04:57 PM;0;8;04:57 PM
+Person;--------------------------- George Richards <cbpres@austin.rr.com> on 09/08/2000 05:21:49 AM;28;43;George Richards
+Date;--------------------------- George Richards <cbpres@austin.rr.com> on 09/08/2000 05:21:49 AM;70;80;09/08/2000
+Time;--------------------------- George Richards <cbpres@austin.rr.com> on 09/08/2000 05:21:49 AM;81;92;05:21:49 AM
+Person;Phillip Allen <pallen@enron.com> cc:;0;13;Phillip Allen
+Person;Larry Lewter <retwell@mail.sanmarcos.net>;0;12;Larry Lewter
+Person;Westgate Proforma-Phillip Allen.xls;18;25;Phillip
+Location;is Austin that we told you about.;3;9;Austin
+Time;As you can tell from the proforma this project should produce a truly exceptional return of over 40% per year over 3 years.;115;122;3 years
+Location;Austin and we are introducing new product;0;6;Austin
+Location;This is the best project in terms of risk and reward that we have uncovered to date in the Austin market.;91;97;Austin
+Location;it is in the Smart Growth Corridor area designated by the City of Austin for preferred development, this will be fast tracked and should be complete in less than 6 months.;66;72;Austin
+Time;it is in the Smart Growth Corridor area designated by the City of Austin for preferred development, this will be fast tracked and should be complete in less than 6 months.;162;170;6 months
+Location;Austin, which included a detention/retention and filtration pond and street widening.;0;6;Austin
+Product;The Lone Star gas line easement in the lower portion of the property is not expected to impact sales significantly.;14;17;gas
+Time;The seller accepted our offer Thursday evening with a price of $680,000 and an extended escrow.;30;38;Thursday
+Money;The seller accepted our offer Thursday evening with a price of $680,000 and an extended escrow.;63;71;$680,000
+Money;This analysis shows your investment at $700,000 for a 50% interest in the profits of the project.;39;47;$700,000
+Location;As we discussed in San Marcos, we can also discuss having you invest only in the lots, sell the lots to the construction entity with your profit in the lot.;19;29;San Marcos
+Person;Larry Lewter knows an expert in the field in San;0;12;Larry Lewter
+Organization;I will send you a package on the property that was prepared by the broker, by Airborne Express today for Saturday delivery.;78;94;Airborne Express
+Time;I will send you a package on the property that was prepared by the broker, by Airborne Express today for Saturday delivery.;95;100;today
+Time;I will send you a package on the property that was prepared by the broker, by Airborne Express today for Saturday delivery.;105;113;Saturday
+Location;A small freakish wind storm with severe 60+mpg downdrafts hit the South part of Austin where we are building 10 town homes.;80;86;Austin
+Time;The City shut down the project for a week and it took another week to get every thing back on tract.;37;41;week
+Time;The City shut down the project for a week and it took another week to get every thing back on tract.;62;66;week
+Time;Then last week I had to take my wife to emergency.;10;14;week
+Time;past week..;5;9;week
+Person;George W. Richards;0;18;George W. Richards
+Organization;Creekside Builders, LLC - Westgate Proforma-Phillip Allen.xls;0;23;Creekside Builders, LLC
+Person;Creekside Builders, LLC - Westgate Proforma-Phillip Allen.xls;44;51;Phillip
+Person;Jeff, I received the rent roll.;0;4;Jeff
+Location;I am going to be in San Marcos this weekend;20;30;San Marcos
+Time;I will drive by Friday evening.;16;22;Friday
+Time;I will let you know next week if I need to see the inside.;25;29;week
+Person;What about getting a look at the site plans for the Burnet deal.;52;58;Burnet
+Person;we have to get Brenda happy.;15;21;Brenda
+Person;Phillip  9/8 9/7 diff;0;7;Phillip
+Location;San Juan;0;8;San Juan
+Location;The reason the benchmark report shows net selling San Juan is that the transport positions were rolled in on 9/8.;50;58;San Juan
+Location;This added 800 shorts to San Juan and 200 longs to Socal.;25;33;San Juan
+Location;Before this adjustment we bought 300 San Juan and sold 800 Socal.;37;45;San Juan
+Organization;What about the correlation to Nymex on AECO?;30;35;Nymex
+Person;Jeff, You would clearly receive a commission on a deal on the sagewood.;0;4;Jeff
+Organization;I am surprised by your request for payment on any type of project in which I might become involved with Creekside.;104;113;Creekside
+Person;Phillip ;0;7;Phillip
+Person;---------------------- Forwarded by Phillip K Allen/HOU/ECT on 09/08/2000;36;51;Phillip K Allen
+Date;---------------------- Forwarded by Phillip K Allen/HOU/ECT on 09/08/2000;63;73;09/08/2000
+Person;--------------------------- George Richards <cbpres@austin.rr.com> on 09/08/2000 05:35:20;28;43;George Richards
+Date;--------------------------- George Richards <cbpres@austin.rr.com> on 09/08/2000 05:35:20;70;80;09/08/2000
+Time;--------------------------- George Richards <cbpres@austin.rr.com> on 09/08/2000 05:35:20;81;89;05:35:20
+Person;Phillip Allen <pallen@enron.com> cc:;0;13;Phillip Allen
+Person;Larry Lewter <retwell@mail.sanmarcos.net>, Diana Zuniga <invest@bga.com>;0;12;Larry Lewter
+Money;This would produce an average sq footage of 1233, which would be $73.80 psf at $182,000.;65;71;$73.80
+Money;This would produce an average sq footage of 1233, which would be $73.80 psf at $182,000.;79;88;$182,000.
+Money;(I thought his sales price was $187,000.);31;41;$187,000.)
+Money;At this price psf our 1,376 sf unit would sell for $203,108.;51;60;$203,108.
+Person;Phillip, I will call you today to go over this more thoroughly.;0;7;Phillip
+Time;Phillip, I will call you today to go over this more thoroughly.;25;30;today
+Person;Sincerely, George W. Richards Creekside Builders, LLC  ---------------------- Forwarded by Phillip K Allen/HOU/ECT on 09/08/2000;11;29;George W. Richards
+Organization;Sincerely, George W. Richards Creekside Builders, LLC  ---------------------- Forwarded by Phillip K Allen/HOU/ECT on 09/08/2000;30;53;Creekside Builders, LLC
+Person;Sincerely, George W. Richards Creekside Builders, LLC  ---------------------- Forwarded by Phillip K Allen/HOU/ECT on 09/08/2000;91;106;Phillip K Allen
+Date;Sincerely, George W. Richards Creekside Builders, LLC  ---------------------- Forwarded by Phillip K Allen/HOU/ECT on 09/08/2000;118;128;09/08/2000
+Person;--------------------------- George Richards <cbpres@austin.rr.com> on 09/08/2000 05:21:49 AM;28;43;George Richards
+Date;--------------------------- George Richards <cbpres@austin.rr.com> on 09/08/2000 05:21:49 AM;70;80;09/08/2000
+Time;--------------------------- George Richards <cbpres@austin.rr.com> on 09/08/2000 05:21:49 AM;81;92;05:21:49 AM
+Person;Phillip Allen <pallen@enron.com> cc:;0;13;Phillip Allen
+Person;Larry Lewter <retwell@mail.sanmarcos.net>;0;12;Larry Lewter
+Person;Westgate Proforma-Phillip Allen.xls;18;25;Phillip
+Location;is Austin that we told you about.;3;9;Austin
+Time;As you can tell from the proforma this project should produce a truly exceptional return of over 40% per year over 3 years.;115;122;3 years
+Location;Austin and we are introducing new product;0;6;Austin
+Location;This is the best project in terms of risk and reward that we have uncovered to date in the Austin market.;91;97;Austin
+Location;it is in the Smart Growth Corridor area designated by the City of Austin for preferred development, this will be fast tracked and should be complete in less than 6 months.;66;72;Austin
+Time;it is in the Smart Growth Corridor area designated by the City of Austin for preferred development, this will be fast tracked and should be complete in less than 6 months.;162;170;6 months
+Location;Austin, which included a detention/retention and filtration pond and street widening.;0;6;Austin
+Product;The Lone Star gas line easement in the lower portion of the property is not expected to impact sales significantly.;14;17;gas
+Time;The seller accepted our offer Thursday evening with a price of $680,000 and an extended escrow.;30;38;Thursday
+Money;The seller accepted our offer Thursday evening with a price of $680,000 and an extended escrow.;63;71;$680,000
+Money;This analysis shows your investment at $700,000 for a 50% interest in the profits of the project.;39;47;$700,000
+Location;As we discussed in San Marcos, we can also discuss having you invest only in the lots, sell the lots to the construction entity with your profit in the lot.;19;29;San Marcos
+Person;Larry Lewter knows an expert in the field in San Antonio if you do not know anyone.;0;12;Larry Lewter
+Location;Larry Lewter knows an expert in the field in San Antonio if you do not know anyone.;45;56;San Antonio
+Organization;I will send you a package on the property that was prepared by the broker, by Airborne Express today for Saturday delivery.;78;94;Airborne Express
+Time;I will send you a package on the property that was prepared by the broker, by Airborne Express today for Saturday delivery.;95;100;today
+Time;I will send you a package on the property that was prepared by the broker, by Airborne Express today for Saturday delivery.;105;113;Saturday
+Location;A small freakish wind storm with severe 60+mpg downdrafts hit the South part of Austin where we are building 10 town homes.;80;86;Austin
+Time;The City shut down the project for a week and it took another week to get every thing back on tract.;37;41;week
+Time;The City shut down the project for a week and it took another week to get every thing back on tract.;62;66;week
+Time;Then last week I had to take my wife to emergency.;10;14;week
+Time;past week..;5;9;week
+Person;George W. Richards;0;18;George W. Richards
+Organization;Creekside Builders, LLC - Westgate Proforma-Phillip Allen.xls;0;23;Creekside Builders, LLC
+Person;Creekside Builders, LLC - Westgate Proforma-Phillip Allen.xls;44;51;Phillip
+Person;---------------------- Forwarded by Phillip K Allen/HOU/ECT on 09/06/2000;36;51;Phillip K Allen
+Date;---------------------- Forwarded by Phillip K Allen/HOU/ECT on 09/06/2000;63;73;09/06/2000
+Time;03:53 PM;0;8;03:53 PM
+Person;--------------------------- Lucy Gonzalez <stagecoachmama@hotmail.com> on 09/06/2000 09:06:45 AM;28;32;Lucy
+Date;--------------------------- Lucy Gonzalez <stagecoachmama@hotmail.com> on 09/06/2000 09:06:45 AM;74;84;09/06/2000
+Time;--------------------------- Lucy Gonzalez <stagecoachmama@hotmail.com> on 09/06/2000 09:06:45 AM;85;96;09:06:45 AM
+Person;---------------------- Forwarded by Phillip K Allen/HOU/ECT on 09/06/2000;36;51;Phillip K Allen
+Date;---------------------- Forwarded by Phillip K Allen/HOU/ECT on 09/06/2000;63;73;09/06/2000
+Time;02:01 PM;0;8;02:01 PM
+Date;Enron-admin@FSDDataSvc.com on 09/06/2000 10:12:33 AM;30;40;09/06/2000
+Time;NO LATER THAN CLOSE OF BUSINESS Thursday, September 14.;32;40;Thursday
+Time;NO LATER THAN CLOSE OF BUSINESS Thursday, September 14.;42;51;September
+Person;- John Arnold ER93FX;2;13;John Arnold
+Person;- John Lavorato;2;15;John Lavorato
+Person;EPEXWX - Hunter Shively;9;23;Hunter Shively
+Person;If you experience technical problems, please call Dennis Ward at FSD Data Services, 713-942-8436.;50;61;Dennis Ward
+Person;If you have any questions about this process, you may contact Debbie Nowak at Enron, 713-853-3304, or Christi Smith at Keilty, Goldsmith & Company, 858-450-2554.;62;74;Debbie Nowak
+Organization;If you have any questions about this process, you may contact Debbie Nowak at Enron, 713-853-3304, or Christi Smith at Keilty, Goldsmith & Company, 858-450-2554.;78;83;Enron
+Person;If you have any questions about this process, you may contact Debbie Nowak at Enron, 713-853-3304, or Christi Smith at Keilty, Goldsmith & Company, 858-450-2554.;102;115;Christi Smith
+Organization;If you have any questions about this process, you may contact Debbie Nowak at Enron, 713-853-3304, or Christi Smith at Keilty, Goldsmith & Company, 858-450-2554.;127;146;Goldsmith & Company
+Person;that were built by Reagan Lehmann.;19;25;Reagan
+Money;22 Units were sold for around $2 million.;30;40;$2 million
+Money;($182,000/duplex).;1;9;$182,000
+Person;I spoke to Reagan;11;17;Reagan
+Money;My bid of 2.7 million is almost $193,000/duplex.;10;21;2.7 million
+Money;My bid of 2.7 million is almost $193,000/duplex.;32;40;$193,000
+Person;Phillip ;0;7;Phillip
+Person;Forwarded by Phillip K Allen/HOU/ECT on 05/01/2001;13;28;Phillip K Allen
+Date;Forwarded by Phillip K Allen/HOU/ECT on 05/01/2001;40;50;05/01/2001
+Time;2:14 PM --------------------------- Outlook Migration Team@ENRON;0;7;2:14 PM
+Date;04/27/2001;0;10;04/27/2001
+Time;01:01 PM To:=09Allison Horton/NA/Enron@ENRON, Amir Baig/NA/Enron@ENRON, Brandon Bang=;0;8;01:01 PM
+Person;01:01 PM To:=09Allison Horton/NA/Enron@ENRON, Amir Baig/NA/Enron@ENRON, Brandon Bang=;46;55;Amir Baig
+Person;Brian Ellis/Corp/Enron@Enron,;0;11;Brian Ellis
+Person;Charles Philpott/HR/Cor=;0;16;Charles Philpott
+Person;p/Enron@ENRON, Chris P Wood/NA/Enron@Enron, Chris Tull;15;27;Chris P Wood
+Person;p/Enron@ENRON, Chris P Wood/NA/Enron@Enron, Chris Tull;44;54;Chris Tull
+Time;ith/Corp/Enron@ENRON, Dave June/NA/Enron@ENRON, Donald Sutton/NA/Enron@Enro= n, Felicia Buenrostro/HR/Corp/Enron@ENRON, Johnna Morrison;27;31;June
+Person;ith/Corp/Enron@ENRON, Dave June/NA/Enron@ENRON, Donald Sutton/NA/Enron@Enro= n, Felicia Buenrostro/HR/Corp/Enron@ENRON, Johnna Morrison;48;61;Donald Sutton
+Person;ith/Corp/Enron@ENRON, Dave June/NA/Enron@ENRON, Donald Sutton/NA/Enron@Enro= n, Felicia Buenrostro/HR/Corp/Enron@ENRON, Johnna Morrison;80;98;Felicia Buenrostro
+Person;ith/Corp/Enron@ENRON, Dave June/NA/Enron@ENRON, Donald Sutton/NA/Enron@Enro= n, Felicia Buenrostro/HR/Corp/Enron@ENRON, Johnna Morrison;120;135;Johnna Morrison
+Person;/Corp/Enron@ENRON= , Joe Dorn/Corp/Enron@ENRON, Kathryn Schultea/HR/Corp/Enron@ENRON, Leon McD=;21;29;Joe Dorn
+Person;/Corp/Enron@ENRON= , Joe Dorn/Corp/Enron@ENRON, Kathryn Schultea/HR/Corp/Enron@ENRON, Leon McD=;48;64;Kathryn Schultea
+Person;owell/NA/Enron@ENRON, Leticia Barrios/Corp/Enron@ENRON,;22;37;Leticia Barrios
+Person;p/Enron@ENRON, Raj Perubhatla/Corp/Enron@Enron, Shekar Komatireddy/NA/Enron=;15;29;Raj Perubhatla
+Person;p/Enron@ENRON, Raj Perubhatla/Corp/Enron@Enron, Shekar Komatireddy/NA/Enron=;48;66;Shekar Komatireddy
+Person;@Enron, Andrea Yowman/Corp/Enron@ENRON, Angie O'Brian/HR/Corp/Enron@ENRON, =;8;21;Andrea Yowman
+Person;@Enron, Andrea Yowman/Corp/Enron@ENRON, Angie O'Brian/HR/Corp/Enron@ENRON, =;40;53;Angie O'Brian
+Person;Bonne Castellano/HR/Corp/Enron@ENRON, Gwynn Gorsuch/NA/Enron@ENRON,;38;51;Gwynn Gorsuch
+Person;= Matson/Corp/Enron@ENRON, LaQuitta Washington/HR/Corp/Enron@ENRON, Rick John=;27;46;LaQuitta Washington
+Person;son/HR/Corp/Enron@ENRON, Sandra Lighthill/HR/Corp/Enron@ENRON, Valeria A;25;41;Sandra Lighthill
+Person;Ho= pe/HOU/ECT@ECT, Charlotte Brown/HR/Corp/Enron@ENRON, Ronald Fain/HR/Corp/En=;20;35;Charlotte Brown
+Person;Ho= pe/HOU/ECT@ECT, Charlotte Brown/HR/Corp/Enron@ENRON, Ronald Fain/HR/Corp/En=;57;68;Ronald Fain
+Person;ron@ENRON, Gary Fitch/HR/Corp/Enron@Enron, Anna Harris/HR/Corp/Enron@ENRON,= Keith Jones/HR/Corp/Enron@ENRON,;11;21;Gary Fitch
+Person;ron@ENRON, Gary Fitch/HR/Corp/Enron@Enron, Anna Harris/HR/Corp/Enron@ENRON,= Keith Jones/HR/Corp/Enron@ENRON,;43;54;Anna Harris
+Person;ron@ENRON, Gary Fitch/HR/Corp/Enron@Enron, Anna Harris/HR/Corp/Enron@ENRON,= Keith Jones/HR/Corp/Enron@ENRON,;77;82;Keith
+Person;Kristi Monson/NA/Enron@Enron, Bobbie McNi=;0;13;Kristi Monson
+Person;el/HR/Corp/Enron@ENRON, John Stabler/HR/Corp/Enron@ENRON,;24;36;John Stabler
+Person;A/Enron@Enron, James Gramke/NA/Enron@ENRON, Blair Hicks/NA/Enron@ENRON, Jen=;15;27;James Gramke
+Person;A/Enron@Enron, James Gramke/NA/Enron@ENRON, Blair Hicks/NA/Enron@ENRON, Jen=;44;55;Blair Hicks
+Organization;Enron Communications@Enron Communications, Jim Lit=;0;5;Enron
+Person;Enron Communications@Enron Communications, Jim Lit=;43;46;Jim
+Person;tle/Enron@EnronXGate, Dale Lukert/NA/Enron@ENRON,;22;33;Dale Lukert
+Person;Donald Martin/NA/;0;13;Donald Martin
+Person;RON, Andrew Mattei/NA/Enron@ENRON,;5;18;Andrew Mattei
+Person;Darvin Mitchell/NA/Enron@ENRON, Mark Old=;0;15;Darvin Mitchell
+Person;Ramon Pizarro/ENRON_DEVE=;0;13;Ramon Pizarro
+Person;LOPMENT@ENRON_DEVELOPMENT, Natalie Rau/NA/Enron@ENRON, William Redick/NA/En=;27;38;Natalie Rau
+Person;LOPMENT@ENRON_DEVELOPMENT, Natalie Rau/NA/Enron@ENRON, William Redick/NA/En=;55;69;William Redick
+Person;ON, Gary Simmons/NA/Enron@Enron, Delaney Trimble/NA/Enron@ENRON, David Upto= n/NA/Enron@ENRON, Mike Boegler/HR/Corp/Enron@ENRON,;95;99;Mike
+Person;Gabriel Franco/NA/Enron@Enron, Randy Gross/HR/Corp/Enron@Enron, =;0;14;Gabriel Franco
+Person;Gabriel Franco/NA/Enron@Enron, Randy Gross/HR/Corp/Enron@Enron, =;31;36;Randy
+Person;Arthur Johnson/HR/Corp/Enron@Enron, Danny Jones/HR/Corp/Enron@ENRON, John O= gden;0;14;Arthur Johnson
+Person;Lance Stanley/HR/Corp/Enron@ENRON, Frank Ermis/HOU/ECT@ECT, J=;35;46;Frank Ermis
+Person;/HOU/ECT@ECT, Keith Holst/HOU;14;25;Keith Holst
+Person;/ECT@ect= , Matthew Lenhart/HOU/ECT@ECT, Mike Grigsby/HOU/ECT@ECT, Monique Sanchez/HO=;41;53;Mike Grigsby
+Person;/ECT@ect= , Matthew Lenhart/HOU/ECT@ECT, Mike Grigsby/HOU/ECT@ECT, Monique Sanchez/HO=;67;82;Monique Sanchez
+Person;Phillip K Allen/HOU/ECT@ECT, Randall L Gay/HOU/ECT@ECT, Tori Kuy=;0;15;Phillip K Allen
+Person;Phillip K Allen/HOU/ECT@ECT, Randall L Gay/HOU/ECT@ECT, Tori Kuy=;29;42;Randall L Gay
+Person;kendall/HOU/ECT@ECT, Brenda H Fletcher/HOU/ECT@ECT,;21;27;Brenda
+Person;Mike Potter/NA/Enron@Enron, Na=;0;4;Mike
+Person;Suzanne Calcagno/NA/Enron@Enron, Alvin Thompson;33;47;Alvin Thompson
+Person;/Co= rp/Enron@Enron, Cynthia Franklin/Corp/Enron@ENRON, Jesse Villarreal/HOU/ECT= @ECT, Joan Collins/HOU/EES@EES, Joe A Casas/HOU/ECT@ECT, Kelly Loocke/ENRON= @enronXgate, Lia Halstead/NA/Enron@ENRON, Meredith Homco/HOU/ECT@ECT, Rober=;21;37;Cynthia Franklin
+Organization;Tracy Wood/NA/Enron@ENRON, Gabriel Fuzat/Enron Communications@Enron Commun= ications, Jack Netek/Enron Communications@Enron Communications, Lam Nguyen/=;41;46;Enron
+Organization;Tracy Wood/NA/Enron@ENRON, Gabriel Fuzat/Enron Communications@Enron Commun= ications, Jack Netek/Enron Communications@Enron Communications, Lam Nguyen/=;97;102;Enron
+Person;Jessica Hangach/NYC/MGUSA@MGUSA, Kathy Gagel/NYC/MGUSA@MGUSA, Lisa Goulart/=;33;38;Kathy
+Time;the morning after your mailbox is m= igrated.;4;11;morning
+Organization;ing to the Enron network (LAN).;11;16;Enron
+Person;Ina, I scheduled a meeting with Jean Mrha tomorrow at 3:30 ----------------------;32;41;Jean Mrha
+Time;Ina, I scheduled a meeting with Jean Mrha tomorrow at 3:30 ----------------------;54;58;3:30
+Person;Forwarded by Phillip K Allen/HOU/ECT on 09/06/2000;13;28;Phillip K Allen
+Date;Forwarded by Phillip K Allen/HOU/ECT on 09/06/2000;40;50;09/06/2000
+Person;Jeff Richter;0;4;Jeff
+Date;09/06/2000;0;10;09/06/2000
+Date;07:39;0;5;07:39
+Person;Phillip K Allen/HOU/ECT@ECT cc:;0;15;Phillip K Allen
+Person;Forwarded by Jeff Richter/HOU/ECT on 09/06/2000 09:45 AM ---------------------------;13;17;Jeff
+Date;Forwarded by Jeff Richter/HOU/ECT on 09/06/2000 09:45 AM ---------------------------;37;47;09/06/2000
+Person;Mike Swerzbin/HOU/ECT@ECT, Robert Badeer/HOU/ECT@ECT,;0;4;Mike
+Person;Tim Belden/HOU/ECT@ECT, Jeff Richter/HOU/ECT@ECT,;0;3;Tim
+Person;Tim Belden/HOU/ECT@ECT, Jeff Richter/HOU/ECT@ECT,;24;28;Jeff
+Person;Matt Motley/PDX/;0;11;Matt Motley
+Person;Forwarded by Tim Belden/HOU/ECT on 09/06/2000 07:27;13;16;Tim
+Date;Forwarded by Tim Belden/HOU/ECT on 09/06/2000 07:27;35;45;09/06/2000
+Organization;Enron Capital &;0;5;Enron
+Date;09/05/2000;0;10;09/05/2000
+Person;Tim Belden;0;3;Tim
+Person;/HOU/ECT@ECT, Doug Gilbert-Smith/Corp/Enron@ENRON, Mike;51;55;Mike
+Product;The utility infrastructure simply cannot handle these loads at the distribution level and ultimatley distributed generation will be required for power quality reasons.;145;150;power
+Location;The City of Austin, TX has experienced 300+ MW of load growth this year due to server farms and technology companies.;12;18;Austin
+Time;There is a 100 MW server farm trying to hook up to HL&P as we speak and they cannot deliver for 12 months due to distribution infrastructure issues.;96;105;12 months
+Location;Obviously, Seattle, Porltand, Boise, Denver, San Fran and San Jose in your markets are in for a rude awakening in the next 2-3 years.;11;18;Seattle
+Location;Obviously, Seattle, Porltand, Boise, Denver, San Fran and San Jose in your markets are in for a rude awakening in the next 2-3 years.;37;43;Denver
+Time;Obviously, Seattle, Porltand, Boise, Denver, San Fran and San Jose in your markets are in for a rude awakening in the next 2-3 years.;125;132;3 years
+Date;Forwarded by Kevin M Presto/HOU/ECT on 09/05/2000;39;49;09/05/2000
+Organization;Enron North America Corp. From: John D Suarez;0;5;Enron
+Location;Enron North America Corp. From: John D Suarez;6;19;North America
+Date;09/05/2000 01:45 PM;0;10;09/05/2000
+Time;09/05/2000 01:45 PM;11;19;01:45 PM
+Date;Forwarded by John D Suarez/HOU/ECT on 09/05/2000 01:46;38;48;09/05/2000
+Person;--------------------------- George Hopley 09/05/2000 11:41 AM;28;34;George
+Date;--------------------------- George Hopley 09/05/2000 11:41 AM;42;52;09/05/2000
+Organization;To: John D Suarez/HOU/ECT@ECT, Suresh Vasan/Enron Communications@ENRON;44;49;Enron
+Time;( September 05, 2000 );2;11;September
+Organization;In 1997, a little-known Silicon Valley company called Exodus Communications opened a 15,000-square-foot data center in Tukwila.;54;60;Exodus
+Organization;Exodus is now wrapping up construction on a new 13-acre, 576,000-square-foot data center less than;0;6;Exodus
+Organization;Sitting at the confluence of several fiber optic backbones, the Exodus plant will consume enough power for a small town and eventually house Internet servers for firms such as Avenue A,;64;70;Exodus
+Product;Sitting at the confluence of several fiber optic backbones, the Exodus plant will consume enough power for a small town and eventually house Internet servers for firms such as Avenue A,;97;102;power
+Organization;Exodus is not the only company building massive data centers near Seattle.;0;6;Exodus
+Location;Exodus is not the only company building massive data centers near Seattle.;66;73;Seattle
+Organization;More than a dozen companies -- with names like AboveNet, Globix and HostPro -- are looking for facilities here that will house the networking equipment of the Internet economy.;47;55;AboveNet
+Organization;More than a dozen companies -- with names like AboveNet, Globix and HostPro -- are looking for facilities here that will house the networking equipment of the Internet economy.;57;63;Globix
+Organization;More than a dozen companies -- with names like AboveNet, Globix and HostPro -- are looking for facilities here that will house the networking equipment of the Internet economy.;68;75;HostPro
+Location;Valley that some have expressed concern over whether Seattle City Light and Puget Sound Energy can handle the power necessary to run these 24-hour, high-security facilities.;53;60;Seattle
+Organization;Valley that some have expressed concern over whether Seattle City Light and Puget Sound Energy can handle the power necessary to run these 24-hour, high-security facilities.;76;94;Puget Sound Energy
+Product;Valley that some have expressed concern over whether Seattle City Light and Puget Sound Energy can handle the power necessary to run these 24-hour, high-security facilities.;110;115;power
+Product;We are talking to about half a dozen customers that are requesting 445 megawatts of power in a little area near Southcenter Mall, said Karl Karzmar, manager of revenue requirements for Puget Sound Energy. ;84;89;power
+Organization;We are talking to about half a dozen customers that are requesting 445 megawatts of power in a little area near Southcenter Mall, said Karl Karzmar, manager of revenue requirements for Puget Sound Energy. ;185;203;Puget Sound Energy
+Organization;Puget Sound Energy last week asked the Washington Utilities and Transportation Commission to accept a tariff on the new data centers.;0;18;Puget Sound Energy
+Time;Puget Sound Energy last week asked the Washington Utilities and Transportation Commission to accept a tariff on the new data centers.;24;28;week
+Organization;Puget Sound Energy last week asked the Washington Utilities and Transportation Commission to accept a tariff on the new data centers.;39;59;Washington Utilities
+Organization;Puget Sound Energy last week asked the Washington Utilities and Transportation Commission to accept a tariff on the new data centers.;64;89;Transportation Commission
+Money;Those base stations could cost as much as $20 million each, Karzmar said.;42;53;$20 million
+Location;Not to be left behind, Seattle City Light plans to bring up the data center issue on Thursday at the Seattle City Council meeting.;23;30;Seattle
+Time;Not to be left behind, Seattle City Light plans to bring up the data center issue on Thursday at the Seattle City Council meeting.;85;93;Thursday
+Location;Not to be left behind, Seattle City Light plans to bring up the data center issue on Thursday at the Seattle City Council meeting.;101;108;Seattle
+Product;For the utilities that provide power to homes, businesses and schools in the region, this is a new and complex issue.;31;36;power
+Product;On one hand, the data centers -- with their amazing appetite for power -- represent potentially lucrative business customers.;65;70;power
+Time;The facilities run 24 hours a day, seven days a week, and therefore could become a constant revenue stream.;19;27;24 hours
+Time;The facilities run 24 hours a day, seven days a week, and therefore could become a constant revenue stream.;48;52;week
+Product;Who will pay for those expenditures and what it will mean for power rates in the area is still open to debate.;62;67;power
+Location;These facilities are what we call extremely dense loads, said Bob Royer, director of communications and public affairs at Seattle City Light.;122;129;Seattle
+Time;Sabey Corp. re-purchased the 1.35 million square-foot Intergate East facility last September from Boeing Space & Defense.;83;92;September
+Time;In less than 12 months, the developer has leased 92 percent of the six-building complex to seven different co-location companies.;13;22;12 months
+Organization;Exodus, ICG Communications,;0;6;Exodus
+Organization;Exodus, ICG Communications,;8;26;ICG Communications
+Organization;NetStream Communications, Pac West Telecomm and Zama Networks all lease space in the office park.;0;24;NetStream Communications
+Organization;NetStream Communications, Pac West Telecomm and Zama Networks all lease space in the office park.;26;43;Pac West Telecomm
+Organization;NetStream Communications, Pac West Telecomm and Zama Networks all lease space in the office park.;48;61;Zama Networks
+Organization;After building Exodus' first Tukwila facility in 1997, Sabey has become an expert in the arena and now has facilities either under management or development in Los Angeles, Spokane and Denver.;15;21;Exodus
+Location;After building Exodus' first Tukwila facility in 1997, Sabey has become an expert in the arena and now has facilities either under management or development in Los Angeles, Spokane and Denver.;160;171;Los Angeles
+Location;After building Exodus' first Tukwila facility in 1997, Sabey has become an expert in the arena and now has facilities either under management or development in Los Angeles, Spokane and Denver.;173;180;Spokane
+Location;After building Exodus' first Tukwila facility in 1997, Sabey has become an expert in the arena and now has facilities either under management or development in Los Angeles, Spokane and Denver.;185;191;Denver
+Location;As more people access the Internet and conduct bandwidth-heavy tasks such as listening to online music, Poole said the need for co-location space in Seattle continues to escalate.;149;156;Seattle
+Location;But it is not just Seattle.;19;26;Seattle
+Location;The need for data center space is growing at a rapid clip at many technology hubs throughout the country, causing similar concerns among utilities in places such as Texas and California.;175;185;California
+Organization;Exodus, one of the largest providers of co-location space, plans to nearly double the amount of space it has by the end of the year.;0;6;Exodus
+Organization;While companies such as Amazon.com run their own server farms, many high-tech companies have decided to outsource the operations to companies such as Exodus that may be better prepared for dealing with Internet traffic management.;24;34;Amazon.com
+Organization;While companies such as Amazon.com run their own server farms, many high-tech companies have decided to outsource the operations to companies such as Exodus that may be better prepared for dealing with Internet traffic management.;150;156;Exodus
+Organization;We have 2 million square feet of space under construction and we plan to double our size in the next nine months , yet there is more demand right now than data center space, said Steve Porter, an account executive at Exodus in Seattle.;217;223;Exodus
+Location;We have 2 million square feet of space under construction and we plan to double our size in the next nine months , yet there is more demand right now than data center space, said Steve Porter, an account executive at Exodus in Seattle.;227;234;Seattle
+Location;It accelerates in a quantum way what you have to do to serve the growth, said Seattle City Light's Royer. ;78;85;Seattle
+Person;  Ina, Can you pull Tori K.'s and Martin Cuilla's resumes and past performance reviews from H.R.;34;47;Martin Cuilla
+Person;Forwarded by Phillip K Allen/HOU/ECT on 09/06/2000;13;28;Phillip K Allen
+Date;Forwarded by Phillip K Allen/HOU/ECT on 09/06/2000;40;50;09/06/2000
+Time;10:44 AM;0;8;10:44 AM
+Date;John J Lavorato@ENRON 09/06/2000;22;32;09/06/2000
+Time;05:39 AM;0;8;05:39 AM
+Person;Phillip K Allen/HOU/ECT@ECT cc:;0;15;Phillip K Allen
+Person;Forwarded by Phillip K Allen/HOU/ECT on 09/05/2000;13;28;Phillip K Allen
+Date;Forwarded by Phillip K Allen/HOU/ECT on 09/05/2000;40;50;09/05/2000
+Time;01:50 PM;0;8;01:50 PM
+Person;--------------------------- Christi Smith <christi.smith@lrinet.com> on 09/05/2000 11:40:59 AM;28;41;Christi Smith
+Date;--------------------------- Christi Smith <christi.smith@lrinet.com> on 09/05/2000 11:40:59 AM;72;82;09/05/2000
+Person;To: <Phillip.K.Allen@enron.com> cc: Debbie Nowak (E-mail) <dnowak@enron.com;36;48;Debbie Nowak
+Person;From: Christi Smith [mailto:christi.smith@lrinet.com];6;19;Christi Smith
+Time;Sent: Thursday, August 31, 2000 10:33 AM;6;14;Thursday
+Time;Sent: Thursday, August 31, 2000 10:33 AM;16;22;August
+Person;"Debbie Nowak (E-mail);";0;12;Debbie Nowak
+Person;Deborah Evans (E-mail);0;13;Deborah Evans
+Person;Receipt of Team Selection Form - Executive Impact & Influence Program Importance: High Hi Phillip.;90;97;Phillip
+Person;Thank you for your assistance Phillip.;30;37;Phillip
+Person;Christi L. Smith Project Manager for Client Services Keilty, Goldsmith & Company 858/450;0;16;Christi L. Smith
+Organization;Christi L. Smith Project Manager for Client Services Keilty, Goldsmith & Company 858/450;61;80;Goldsmith & Company
+Person;Phillip K Allen [mailto:Phillip.K.Allen@enron.com];0;15;Phillip K Allen
+Time;Sent: Thursday, August 31, 2000 12:03 PM;6;14;Thursday
+Time;Sent: Thursday, August 31, 2000 12:03 PM;16;22;August
+Time;Sent: Thursday, August 31, 2000 12:03 PM;32;40;12:03 PM
+Person;John Lavorato-M Mike Grigsby-D;0;13;John Lavorato
+Person;John Lavorato-M Mike Grigsby-D;16;28;Mike Grigsby
+Person;Keith Holst-D;0;11;Keith Holst
+Person;Frank Ermis-D;0;11;Frank Ermis
+Person;Steve South-D;0;11;Steve South
+Person;Janie Tholt-D;0;11;Janie Tholt
+Person;Scott Neal-P;0;10;Scott Neal
+Person;Hunter Shively-P;0;14;Hunter Shively
+Person;Tom Martin-P;0;10;Tom Martin
+Person;John Arnold-P;0;11;John Arnold
+Person; ---------------------- Forwarded by Phillip K Allen/HOU/ECT on 09/05/2000;37;52;Phillip K Allen
+Date; ---------------------- Forwarded by Phillip K Allen/HOU/ECT on 09/05/2000;64;74;09/05/2000
+Person;From: Phillip K Allen 08/29/2000 02:20 PM;6;21;Phillip K Allen
+Time;Mark, Here is a spreadsheet detailing our September Socal trades.;42;51;September
+Person;Phillip;0;7;Phillip
+Person; ---------------------- Forwarded by Phillip K Allen/HOU/ECT on 09/01/2000;37;52;Phillip K Allen
+Date; ---------------------- Forwarded by Phillip K Allen/HOU/ECT on 09/01/2000;64;74;09/01/2000
+Organization;Enron North America Corp.;0;5;Enron
+Location;Enron North America Corp.;6;19;North America
+Person;From: Matt Motley 09/01/2000 08:53 AM;6;17;Matt Motley
+Date;From: Matt Motley 09/01/2000 08:53 AM;18;28;09/01/2000
+Time;From: Matt Motley 09/01/2000 08:53 AM;29;37;08:53 AM
+Person;Phillip K Allen/HOU/ECT@ECT cc:;0;15;Phillip K Allen
+Person;FYI -- - Ray Niles on Price Caps.pdf  Richard, Compare your california production to the numbers in the 2000 California Gas Report.;38;45;Richard
+Location;FYI -- - Ray Niles on Price Caps.pdf  Richard, Compare your california production to the numbers in the 2000 California Gas Report.;109;119;California
+Product;FYI -- - Ray Niles on Price Caps.pdf  Richard, Compare your california production to the numbers in the 2000 California Gas Report.;120;123;Gas
+Product;Cooper, Can you give access to the new west power site to Jay Reitmeyer.;44;49;power
+Person;Phillip ---------------------- Forwarded by Phillip K Allen/HOU/ECT on 08/31/2000;0;7;Phillip
+Person;Phillip ---------------------- Forwarded by Phillip K Allen/HOU/ECT on 08/31/2000;44;59;Phillip K Allen
+Date;Phillip ---------------------- Forwarded by Phillip K Allen/HOU/ECT on 08/31/2000;71;81;08/31/2000
+Time;01:13 PM;0;8;01:13 PM
+Person;--------------------------- Christi Smith <christi.smith@lrinet.com> on 08/31/2000 10:32:49 AM;28;41;Christi Smith
+Date;--------------------------- Christi Smith <christi.smith@lrinet.com> on 08/31/2000 10:32:49 AM;72;82;08/31/2000
+Time;--------------------------- Christi Smith <christi.smith@lrinet.com> on 08/31/2000 10:32:49 AM;83;94;10:32:49 AM
+Person;To: <Phillip.K.Allen@enron.com> cc: Debbie Nowak (E-mail) <dnowak@enron.com>, Deborah Evans (E-mail) <debe@fsddatasvc.com;36;48;Debbie Nowak
+Person;To: <Phillip.K.Allen@enron.com> cc: Debbie Nowak (E-mail) <dnowak@enron.com>, Deborah Evans (E-mail) <debe@fsddatasvc.com;78;91;Deborah Evans
+Person;Subject: Receipt of Team Selection Form - Executive Impact & Influence Program Hi Phillip.;82;89;Phillip
+Person;Thank you for your assistance Phillip.;30;37;Phillip
+Person;Christi L. Smith Project Manager for Client Services;0;16;Christi L. Smith
+Organization;Keilty, Goldsmith & Company 858/450;8;27;Goldsmith & Company
+Person;Phillip K Allen [mailto:Phillip.K.Allen@enron.com];0;15;Phillip K Allen
+Time;Sent: Thursday, August 31, 2000 12:03 PM;6;14;Thursday
+Time;Sent: Thursday, August 31, 2000 12:03 PM;16;22;August
+Time;Sent: Thursday, August 31, 2000 12:03 PM;32;40;12:03 PM
+Person;John Lavorato-M Mike Grigsby-D;0;13;John Lavorato
+Person;John Lavorato-M Mike Grigsby-D;16;28;Mike Grigsby
+Person;Keith Holst-D;0;11;Keith Holst
+Person;Frank Ermis-D;0;11;Frank Ermis
+Person;Steve South-D;0;11;Steve South
+Person;Janie Tholt-D;0;11;Janie Tholt
+Person;Scott Neal-P;0;10;Scott Neal
+Person;Hunter Shively-P;0;14;Hunter Shively
+Person;Tom Martin-P;0;10;Tom Martin
+Person;John Arnold-P;0;11;John Arnold
+Person;---------------------- Forwarded by Phillip K Allen/HOU/ECT on 05/01/2001;36;51;Phillip K Allen
+Date;---------------------- Forwarded by Phillip K Allen/HOU/ECT on 05/01/2001;63;73;05/01/2001
+Time;2:14 PM --------------------------- Outlook Migration Team@ENRON;0;7;2:14 PM
+Date;04/27/2001 01:00 PM To:=09Allison Horton/NA/Enron@ENRON, Amir Baig/NA/Enron@ENRON, Brandon Bang=;0;10;04/27/2001
+Time;04/27/2001 01:00 PM To:=09Allison Horton/NA/Enron@ENRON, Amir Baig/NA/Enron@ENRON, Brandon Bang=;11;19;01:00 PM
+Person;04/27/2001 01:00 PM To:=09Allison Horton/NA/Enron@ENRON, Amir Baig/NA/Enron@ENRON, Brandon Bang=;57;66;Amir Baig
+Person;Brian Ellis/Corp/Enron@Enron,;0;11;Brian Ellis
+Person;Charles Philpott/HR/Cor=;0;16;Charles Philpott
+Person;p/Enron@ENRON, Chris P Wood/NA/Enron@Enron, Chris Tull;15;27;Chris P Wood
+Person;p/Enron@ENRON, Chris P Wood/NA/Enron@Enron, Chris Tull;44;54;Chris Tull
+Time;ith/Corp/Enron@ENRON, Dave June/NA/Enron@ENRON, Donald Sutton/NA/Enron@Enro= n, Felicia Buenrostro/HR/Corp/Enron@ENRON, Johnna Morrison;27;31;June
+Person;ith/Corp/Enron@ENRON, Dave June/NA/Enron@ENRON, Donald Sutton/NA/Enron@Enro= n, Felicia Buenrostro/HR/Corp/Enron@ENRON, Johnna Morrison;48;61;Donald Sutton
+Person;ith/Corp/Enron@ENRON, Dave June/NA/Enron@ENRON, Donald Sutton/NA/Enron@Enro= n, Felicia Buenrostro/HR/Corp/Enron@ENRON, Johnna Morrison;80;98;Felicia Buenrostro
+Person;ith/Corp/Enron@ENRON, Dave June/NA/Enron@ENRON, Donald Sutton/NA/Enron@Enro= n, Felicia Buenrostro/HR/Corp/Enron@ENRON, Johnna Morrison;120;135;Johnna Morrison
+Person;/Corp/Enron@ENRON= , Joe Dorn/Corp/Enron@ENRON, Kathryn Schultea/HR/Corp/Enron@ENRON, Leon McD=;21;29;Joe Dorn
+Person;/Corp/Enron@ENRON= , Joe Dorn/Corp/Enron@ENRON, Kathryn Schultea/HR/Corp/Enron@ENRON, Leon McD=;48;64;Kathryn Schultea
+Person;owell/NA/Enron@ENRON, Leticia Barrios/Corp/Enron@ENRON,;22;37;Leticia Barrios
+Person;p/Enron@ENRON, Raj Perubhatla/Corp/Enron@Enron, Shekar Komatireddy/NA/Enron=;15;29;Raj Perubhatla
+Person;p/Enron@ENRON, Raj Perubhatla/Corp/Enron@Enron, Shekar Komatireddy/NA/Enron=;48;66;Shekar Komatireddy
+Person;@Enron, Andrea Yowman/Corp/Enron@ENRON, Angie O'Brian/HR/Corp/Enron@ENRON, =;8;21;Andrea Yowman
+Person;@Enron, Andrea Yowman/Corp/Enron@ENRON, Angie O'Brian/HR/Corp/Enron@ENRON, =;40;53;Angie O'Brian
+Person;Bonne Castellano/HR/Corp/Enron@ENRON, Gwynn Gorsuch/NA/Enron@ENRON,;38;51;Gwynn Gorsuch
+Person;= Matson/Corp/Enron@ENRON, LaQuitta Washington/HR/Corp/Enron@ENRON, Rick John=;27;46;LaQuitta Washington
+Person;son/HR/Corp/Enron@ENRON, Sandra Lighthill/HR/Corp/Enron@ENRON, Valeria A;25;41;Sandra Lighthill
+Person;Ho= pe/HOU/ECT@ECT, Charlotte Brown/HR/Corp/Enron@ENRON, Ronald Fain/HR/Corp/En=;20;35;Charlotte Brown
+Person;Ho= pe/HOU/ECT@ECT, Charlotte Brown/HR/Corp/Enron@ENRON, Ronald Fain/HR/Corp/En=;57;68;Ronald Fain
+Person;ron@ENRON, Gary Fitch/HR/Corp/Enron@Enron, Anna Harris/HR/Corp/Enron@ENRON,= Keith Jones/HR/Corp/Enron@ENRON,;11;21;Gary Fitch
+Person;ron@ENRON, Gary Fitch/HR/Corp/Enron@Enron, Anna Harris/HR/Corp/Enron@ENRON,= Keith Jones/HR/Corp/Enron@ENRON,;43;54;Anna Harris
+Person;ron@ENRON, Gary Fitch/HR/Corp/Enron@Enron, Anna Harris/HR/Corp/Enron@ENRON,= Keith Jones/HR/Corp/Enron@ENRON,;77;82;Keith
+Person;Kristi Monson/NA/Enron@Enron, Bobbie McNi=;0;13;Kristi Monson
+Person;el/HR/Corp/Enron@ENRON, John Stabler/HR/Corp/Enron@ENRON,;24;36;John Stabler
+Person;A/Enron@Enron, James Gramke/NA/Enron@ENRON, Blair Hicks/NA/Enron@ENRON, Jen=;15;27;James Gramke
+Person;A/Enron@Enron, James Gramke/NA/Enron@ENRON, Blair Hicks/NA/Enron@ENRON, Jen=;44;55;Blair Hicks
+Organization;Enron Communications@Enron Communications, Jim Lit=;0;5;Enron
+Person;Enron Communications@Enron Communications, Jim Lit=;43;46;Jim
+Person;tle/Enron@EnronXGate, Dale Lukert/NA/Enron@ENRON,;22;33;Dale Lukert
+Person;Donald Martin/NA/;0;13;Donald Martin
+Person;RON, Andrew Mattei/NA/Enron@ENRON,;5;18;Andrew Mattei
+Person;Darvin Mitchell/NA/Enron@ENRON, Mark Old=;0;15;Darvin Mitchell
+Person;Ramon Pizarro/ENRON_DEVE=;0;13;Ramon Pizarro
+Person;LOPMENT@ENRON_DEVELOPMENT, Natalie Rau/NA/Enron@ENRON, William Redick/NA/En=;27;38;Natalie Rau
+Person;LOPMENT@ENRON_DEVELOPMENT, Natalie Rau/NA/Enron@ENRON, William Redick/NA/En=;55;69;William Redick
+Person;ON, Gary Simmons/NA/Enron@Enron, Delaney Trimble/NA/Enron@ENRON, David Upto= n/NA/Enron@ENRON, Mike Boegler/HR/Corp/Enron@ENRON,;95;99;Mike
+Person;Gabriel Franco/NA/Enron@Enron, Randy Gross/HR/Corp/Enron@Enron, =;0;14;Gabriel Franco
+Person;Gabriel Franco/NA/Enron@Enron, Randy Gross/HR/Corp/Enron@Enron, =;31;36;Randy
+Person;Arthur Johnson/HR/Corp/Enron@Enron, Danny Jones/HR/Corp/Enron@ENRON, John O= gden;0;14;Arthur Johnson
+Person;Lance Stanley/HR/Corp/Enron@ENRON, Frank Ermis/HOU/ECT@ECT, J=;35;46;Frank Ermis
+Person;/HOU/ECT@ECT, Keith Holst/HOU;14;25;Keith Holst
+Person;/ECT@ect= , Matthew Lenhart/HOU/ECT@ECT, Mike Grigsby/HOU/ECT@ECT, Monique Sanchez/HO=;41;53;Mike Grigsby
+Person;/ECT@ect= , Matthew Lenhart/HOU/ECT@ECT, Mike Grigsby/HOU/ECT@ECT, Monique Sanchez/HO=;67;82;Monique Sanchez
+Person;Phillip K Allen/HOU/ECT@ECT, Randall L Gay/HOU/ECT@ECT, Tori Kuy=;0;15;Phillip K Allen
+Person;Phillip K Allen/HOU/ECT@ECT, Randall L Gay/HOU/ECT@ECT, Tori Kuy=;29;42;Randall L Gay
+Person;kendall/HOU/ECT@ECT, Brenda H Fletcher/HOU/ECT@ECT,;21;27;Brenda
+Person;Mike Potter/NA/Enron@Enron, Na=;0;4;Mike
+Person;Suzanne Calcagno/NA/Enron@Enron, Alvin Thompson;33;47;Alvin Thompson
+Person;/Co= rp/Enron@Enron, Cynthia Franklin/Corp/Enron@ENRON, Jesse Villarreal/HOU/ECT= @ECT, Joan Collins/HOU/EES@EES, Joe A Casas/HOU/ECT@ECT, Kelly Loocke/ENRON= @enronXgate, Lia Halstead/NA/Enron@ENRON, Meredith Homco/HOU/ECT@ECT, Rober=;21;37;Cynthia Franklin
+Organization;Tracy Wood/NA/Enron@ENRON, Gabriel Fuzat/Enron Communications@Enron Commun= ications, Jack Netek/Enron Communications@Enron Communications, Lam Nguyen/=;41;46;Enron
+Organization;Tracy Wood/NA/Enron@ENRON, Gabriel Fuzat/Enron Communications@Enron Commun= ications, Jack Netek/Enron Communications@Enron Communications, Lam Nguyen/=;97;102;Enron
+Person;Jessica Hangach/NYC/MGUSA@MGUSA, Kathy Gagel/NYC/MGUSA@MGUSA, Lisa Goulart/=;33;38;Kathy
+Product;(Desktop, Laptop, Both);0;9;(Desktop,
+Product;(Desktop, Laptop, Both);10;17;Laptop,
+Time;What are your normal work hours?;26;31;hours
+Person;To (MM/DD/YY): =20  John Lavorato-M;20;33;John Lavorato
+Person;Mike Grigsby-D;0;12;Mike Grigsby
+Person;Keith Holst-D;0;11;Keith Holst
+Person;Frank Ermis-D;0;11;Frank Ermis
+Person;Steve South-D;0;11;Steve South
+Person;Janie Tholt-D;0;11;Janie Tholt
+Person;Scott Neal-P;0;10;Scott Neal
+Person;Hunter Shively-P;0;14;Hunter Shively
+Person;Tom Martin-P;0;10;Tom Martin
+Person;John Arnold-P ;0;11;John Arnold
+Person;---------------------- Forwarded by Phillip K Allen/HOU/ECT on 08/31/2000;36;51;Phillip K Allen
+Date;---------------------- Forwarded by Phillip K Allen/HOU/ECT on 08/31/2000;63;73;08/31/2000
+Person;From: Phillip K Allen 08/29/2000 02:20 PM;6;21;Phillip K Allen
+Time;Mark, Here is a spreadsheet detailing our September Socal trades.;42;51;September
+Person;Phillip;0;7;Phillip
+Person; Greg, Got your message.;1;5;Greg
+Person;Keith Why are his requests coming to me?;0;5;Keith
+Time;Here is a spreadsheet detailing our September Socal trades.;36;45;September
+Person;Phillip;0;7;Phillip
+Time; Mark, Were you able to log in to enron online and find socal today?;62;67;today
+Time;I will follow up with a list of our physical deals done yesterday and today.;56;65;yesterday
+Time;I will follow up with a list of our physical deals done yesterday and today.;70;75;today
+Person;Phillip;0;7;Phillip
+Person;Brenda;0;6;Brenda
+Location;Can you send me your address in College Station.;32;47;College Station
+Person;Phillip ---------------------- Forwarded by Phillip K Allen/HOU/ECT on 08/28/2000;0;7;Phillip
+Person;Phillip ---------------------- Forwarded by Phillip K Allen/HOU/ECT on 08/28/2000;44;59;Phillip K Allen
+Date;Phillip ---------------------- Forwarded by Phillip K Allen/HOU/ECT on 08/28/2000;71;81;08/28/2000
+Time;01:39 PM ---------------------------;0;8;01:39 PM
+Person;Kristian J Lande;0;16;Kristian J Lande
+Date;08/24/2000;0;10;08/24/2000
+Time;03:56 PM;0;8;03:56 PM
+Person;Jake Thomas/HOU/ECT@ECT,;0;11;Jake Thomas
+Person;Laird Dyer/SF/ECT@ECT, Jim Buerkle/PDX/ECT@ECT,;23;26;Jim
+Person;Jim Gilbert/PDX/ECT@ECT,;0;3;Jim
+Person;Terry W Donovan/HOU/ECT@ECT, Jeff G;29;33;Jeff
+Person;Tim Belden/HOU/ECT@ECT, Robert Badeer/HOU/ECT@ECT, Matt Motley/PDX/ECT@ECT,;0;3;Tim
+Person;Tim Belden/HOU/ECT@ECT, Robert Badeer/HOU/ECT@ECT, Matt Motley/PDX/ECT@ECT,;51;62;Matt Motley
+Person;Phillip K Allen/HOU/ECT@ECT;0;15;Phillip K Allen
+Time;Report as of August 24, 2000  Mark,;13;19;August
+Person;(713)853-7041 or Kathy Moore, EnronOnline HelpDesk, 713/853-HELP (4357).;17;22;Kathy
+Person;Phillip Allen;0;13;Phillip Allen
+Product;I listed the days during bidweek that reflected financial trading for Socal Index and the actual gas daily prints before and after bidweek.;97;100;gas
+Time;The following observations can be made: July 1.;40;44;July
+Location;The basis market anticipated a Socal/San Juan spread of .81;37;45;San Juan
+Product;Socal Gas Daily Swaps are trading at a significant premium.;6;9;Gas
+Location;The basis market anticipated a Socal/San Juan spread of 1.04 vs actual of .99;37;45;San Juan
+Product;Gas daily spreads were much wider before and after bidweek than the monthly postings 4.;0;3;Gas
+Product;Socal Gas Daily Swaps are trading at a significant premium.;6;9;Gas
+Organization;Enron Online will allow you to monitor the value of financial swaps against the index, as well as, spreads to other locations.;0;5;Enron
+Person;Phillip ;0;7;Phillip
+Person;Alan, You should have received updated numbers from Keith Holst.;52;63;Keith Holst
+Person;Phillip Suzanne, Can you give me more details or email;0;7;Phillip
+Time;Otherwise any afternoon next week would be fine;29;33;week
+Person;Phillip Colleen, Please add Mike Grigsby to the distribution.;0;15;Phillip Colleen
+Person;Phillip Colleen, Please add Mike Grigsby to the distribution.;28;40;Mike Grigsby
+Person;Phillip ;0;7;Phillip
+Person;Brad, With regard to Tori Kuykendall, I would like to promote her to commercial manager instead of converting her from a commercial support manager to an associate.;0;4;Brad
+Person;Martin Cuilla on the central desk is in a similiar situation as Tori.;0;13;Martin Cuilla
+Person;Phillip;0;7;Phillip
+Person;Phillip Lucy, The rent roll spreadsheet is starting to look better.;0;12;Phillip Lucy
+Person;Phillip;0;7;Phillip
+Person;Lucy, I got your email with the attachment.;0;4;Lucy
+Time;Let's work together today to get this done;20;25;today
+Person;Phillip;0;7;Phillip
+Person;you have my approval Lucy, We can discuss your email later.;21;25;Lucy
+Time;It is 2:00.;6;10;2:00
+Person;Phillip Lucy,;0;12;Phillip Lucy
+Time;Please open this excel file and input the rents and names due for this week.;71;75;week
+Time;You will need to get the usage for that meter for the last 12 months.;59;68;12 months
+Person;---------------------- Forwarded by Phillip K Allen/HOU/ECT on 04/30/2001 11:21 AM ---------------------------;36;51;Phillip K Allen
+Person;Alan Comnes 04/27/2001 01:38 PM;0;11;Alan Comnes
+Location;Alan Comnes 04/27/2001 01:38 PM;12;22;04/27/2001
+Time;Alan Comnes 04/27/2001 01:38 PM;23;31;01:38 PM
+Person;Phillip K Allen/HOU/ECT@ECT cc:;0;15;Phillip K Allen
+Person;Phillip, I got this request.;0;7;Phillip
+Product;On the gas side, I think Kean/Lay need an update to a table you prepared for me a few months ago, which I've attached..;7;10;gas
+Person;Alan Comnes;0;11;Alan Comnes
+Person;Forwarded by Alan Comnes/PDX/ECT on 04/27/2001 01:42 PM;13;24;Alan Comnes
+Date;Forwarded by Alan Comnes/PDX/ECT on 04/27/2001 01:42 PM;36;46;04/27/2001
+Time;Forwarded by Alan Comnes/PDX/ECT on 04/27/2001 01:42 PM;47;52;01:42
+Organization;04/27/2001 12:44 PM;0;10;04/27/2001
+Person;Alan Comnes/PDX/ECT@ECT,;0;11;Alan Comnes
+Person;Jeff Dasovich/NA/Enron@Enron;0;4;Jeff
+Person;Paul Kaufman/PDX/ECT@ECT, Richard Shapiro/NA;26;33;Richard
+Product;Alan, Steve has asked that you update the power point below so that it reflects all of the stupid regulatory/legislative decisions since the beginning of the year.;42;47;power
+Time;Ken wants to have this updated chart in his briefing book for next week's Ken Lay Tour to CA.;67;71;week
+Product;He also wants a forward price curve for both gas and power in CA.;45;48;gas
+Product;He also wants a forward price curve for both gas and power in CA.;53;58;power
+Time;Can we get these three documents by Monday afternoon?;36;42;Monday
+Product;Gas Sales 916,000/day x 365 days = 334,340,000/year;0;3;Gas
+Product;Estimated Gas Prices $985,721,000/334,340,000=;10;13;Gas
+Product;$2.95/mcf Actual gas prices are around $1.00/mcf higher and rising.;17;20;gas
+Product;Recalc of EPS with more accurate gas prices: (334,340,000 mct X;33;36;gas
+Product;That is just a back of the envelope valuation based on gas prices.;55;58;gas
+Product;Gas 34;0;3;Gas
+Person;Thank you, Phillip;11;18;Phillip
+Person; ---------------------- Forwarded by Phillip K Allen/HOU/ECT on 08/20/2000;37;52;Phillip K Allen
+Date; ---------------------- Forwarded by Phillip K Allen/HOU/ECT on 08/20/2000;64;74;08/20/2000
+Time;05:39 PM --------------------------- Lucy Gonzalez <stagecoachmama@hotmail.com> on 08/15/2000 02:32:57 PM;0;8;05:39 PM
+Person;05:39 PM --------------------------- Lucy Gonzalez <stagecoachmama@hotmail.com> on 08/15/2000 02:32:57 PM;37;41;Lucy
+Date;05:39 PM --------------------------- Lucy Gonzalez <stagecoachmama@hotmail.com> on 08/15/2000 02:32:57 PM;83;93;08/15/2000
+Time;05:39 PM --------------------------- Lucy Gonzalez <stagecoachmama@hotmail.com> on 08/15/2000 02:32:57 PM;94;105;02:32:57 PM
+Person;Phillip, We have been working on different apartments today and having to listen to different, people about what Mary is saying should i be worried?;0;7;Phillip
+Time;Phillip, We have been working on different apartments today and having to listen to different, people about what Mary is saying should i be worried?;54;59;today
+Person;Thanx Lucy;6;10;Lucy
+Person;---------------------- Forwarded by Phillip K Allen/HOU/ECT on 08/20/2000;36;51;Phillip K Allen
+Date;---------------------- Forwarded by Phillip K Allen/HOU/ECT on 08/20/2000;63;73;08/20/2000
+Time;05:38 PM --------------------------- Lucy Gonzalez;0;8;05:38 PM
+Person;05:38 PM --------------------------- Lucy Gonzalez;37;41;Lucy
+Date;> on 08/16/2000 02:44:36;5;15;08/16/2000
+Time;> on 08/16/2000 02:44:36;16;24;02:44:36
+Person;Phillip,;0;7;Phillip
+Time;I bought today for #17;9;14;today
+Person;Thanxs, Lucy;8;12;Lucy
+Person;---------------------- Forwarded by Phillip K Allen/HOU/ECT on 08/20/2000;36;51;Phillip K Allen
+Date;---------------------- Forwarded by Phillip K Allen/HOU/ECT on 08/20/2000;63;73;08/20/2000
+Time;05:38 PM --------------------------- Lucy Gonzalez;0;8;05:38 PM
+Person;05:38 PM --------------------------- Lucy Gonzalez;37;41;Lucy
+Date;> on 08/17/2000 02:37:55;5;15;08/17/2000
+Time;> on 08/17/2000 02:37:55;16;24;02:37:55
+Person;Phillip, Today was one of those days because Wade had to go pay his fine;0;7;Phillip
+Person;but Iwill E-Mail you tomorrow Lucy;30;34;Lucy
+Organization;I checked into exercising options with Smith Barney, but Enron has some kind of exclusive with Paine Weber.;57;62;Enron
+Person;I checked into exercising options with Smith Barney, but Enron has some kind of exclusive with Paine Weber.;95;106;Paine Weber
+Product;Also can you look at EOG as a play on rising oil and gas prices.;53;56;gas
+Person;Thanks, Phillip;8;15;Phillip
