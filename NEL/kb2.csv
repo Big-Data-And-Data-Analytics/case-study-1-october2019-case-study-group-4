@@ -1,0 +1,319 @@
+Entity;Name;Frequency
+Date;04/27/2001;3
+Date;05/01/2001;3
+Date;07:39;1
+Date;08/15/2000;1
+Date;08/16/2000;1
+Date;08/17/2000;1
+Date;08/20/2000;3
+Date;08/24/2000;1
+Date;08/28/2000;1
+Date;08/31/2000;3
+Date;09/01/2000;2
+Date;09/05/2000;8
+Date;09/06/2000;10
+Date;09/08/2000;6
+Date;09/11/2000;2
+Date;09/12/2000;1
+Date;09/19/2000;1
+Date;09/25/2000;2
+Date;09/26/2000;17
+Date;09/27/2000;8
+Date;09/28/2000;9
+Date;10/03/2000;7
+Date;10/05/2000;2
+Date;10/06/2000;4
+Date;10/09/2000;2
+Date;10/12/2000;1
+Date;10/16/2000;1
+Location;04/27/2001;1
+Location;Albuquerque;1
+Location;Austin;22
+Location;California;3
+Location;Canada;2
+Location;College Station;2
+Location;Denver;4
+Location;El Paso San Juan;2
+Location;Los Angeles;1
+Location;North America;3
+Location;San Antonio;2
+Location;San Diego;3
+Location;San Juan;14
+Location;San Marcos;8
+Location;Seattle;10
+Location;Spokane;1
+Money;$1,232,645;2
+Money;$1.25;1
+Money;$1.30 - $1.40 psf;1
+Money;$10,000;2
+Money;$13,000;2
+Money;$15,000;4
+Money;$182,000;1
+Money;$182,000.;1
+Money;$187,000.);1
+Money;$19,000;4
+Money;$193,000;1
+Money;$2 million;1
+Money;$2,000;2
+Money;$2.50;1
+Money;$20 million;1
+Money;$20,000;4
+Money;$203,108.;1
+Money;$241,000;2
+Money;$25,000;2
+Money;$3,966;2
+Money;$300,000;1
+Money;$31,000;2
+Money;$4,000;4
+Money;$4.70;2
+Money;$4.70-$4.80;2
+Money;$476,000;2
+Money;$680,000;5
+Money;$7,000;2
+Money;$700,000;3
+Money;$73.80;1
+Money;$8,000;2
+Money;$9,000;2
+Money;$992,000;2
+Money;0-$184,000;2
+Money;15 cents;2
+Money;2.7 million;1
+Organization;04/27/2001;1
+Organization;APB;2
+Organization;AboveNet;1
+Organization;Airborne Express;3
+Organization;Amazon.com;1
+Organization;Amerex;2
+Organization;Creekside;6
+Organization;Creekside Builders;1
+Organization;Creekside Builders, LLC;11
+Organization;EES;1
+Organization;Enron;22
+Organization;Enron Energy Services;1
+Organization;Exodus;9
+Organization;Globix;1
+Organization;Goldsmith & Company;3
+Organization;Honeywell;1
+Organization;Honeywell Power Systems, Inc.;1
+Organization;HostPro;1
+Organization;ICG Communications;1
+Organization;Inside Ferc;2
+Organization;NetStream Communications;1
+Organization;Nymex;4
+Organization;Pac West Telecomm;1
+Organization;Prebon;2
+Organization;Puget Sound Energy;3
+Organization;Transportation Commission;1
+Organization;Washington Utilities;1
+Organization;Zama Networks;1
+Person;Alan Comnes;4
+Person;Allan;21
+Person;Alvin Thompson;2
+Person;Amir Baig;2
+Person;Andrea Yowman;2
+Person;Andrew Mattei;2
+Person;Angie O'Brian;2
+Person;Anna Harris;2
+Person;Arthur Johnson;2
+Person;Beth Perlman;2
+Person;Blair Hicks;2
+Person;Brad;1
+Person;Brenda;9
+Person;Brian Ellis;2
+Person;Buck Buckner;1
+Person;Buckner;1
+Person;Buckner, Buck;1
+Person;Burnet;3
+Person;Charles Philpott;2
+Person;Charlotte Brown;2
+Person;Cherry Creek;1
+Person;Chris P Wood;2
+Person;Chris Tull;2
+Person;Christi L. Smith;2
+Person;Christi Smith;4
+Person;Cindy Cicchetti;11
+Person;Claudia L. Crocker;2
+Person;Colleen;7
+Person;Cynthia Franklin;2
+Person;Dale Lukert;2
+Person;Darvin Mitchell;2
+Person;Debbie Nowak;4
+Person;Deborah Evans;2
+Person;Deborah Yates;1
+Person;Dennis Ward;1
+Person;Donald Martin;2
+Person;Donald Sutton;2
+Person;Felicia Buenrostro;2
+Person;Fletcher J Sturm;10
+Person;Frank Ermis;6
+Person;Frank Hayden;1
+Person;Gabriel Franco;2
+Person;Gary Fitch;2
+Person;George;3
+Person;George Richards;9
+Person;George W. Richards;5
+Person;Grant Masson;1
+Person;Greg;3
+Person;Gwynn Gorsuch;2
+Person;Hunter Shively;4
+Person;Ina Rangel;3
+Person;Jake Thomas;1
+Person;James Gramke;2
+Person;Janie Tholt;3
+Person;Jean Mrha;2
+Person;Jeff;10
+Person;Jeffrey C Gossett;5
+Person;Jim;5
+Person;Joe Dorn;2
+Person;John Arnold;5
+Person;John Lavorato;5
+Person;John Stabler;2
+Person;Johnna Morrison;2
+Person;Kathryn Schultea;2
+Person;Kathy;4
+Person;Keith;11
+Person;Keith Holst;7
+Person;Kenny Ha;2
+Person;Kimberly Brown;1
+Person;Kimberly Hillis;1
+Person;Kipp Flores;1
+Person;Kristi Monson;2
+Person;Kristian J Lande;1
+Person;LaQuitta Washington;2
+Person;Larry Lewter;12
+Person;Leticia Barrios;2
+Person;Liane;2
+Person;Lucy;11
+Person;Mark Whitt;1
+Person;Martin Cuilla;2
+Person;Matt Motley;3
+Person;Mike;7
+Person;Mike Grigsby;8
+Person;Monique Sanchez;3
+Person;Murphy;1
+Person;Nancy Hall;1
+Person;Natalie Rau;2
+Person;Paine Weber;1
+Person;Paul Bieniawski;1
+Person;Peggy Alix;2
+Person;Phillip;52
+Person;Phillip Allen;16
+Person;Phillip Colleen;1
+Person;Phillip K Allen;77
+Person;Phillip Lucy;4
+Person;Raj Perubhatla;2
+Person;Ramon Pizarro;2
+Person;Randall L Gay;2
+Person;Randy;3
+Person;Reagan;4
+Person;Richard;4
+Person;Richard Burchfield;17
+Person;Rita Hennessy;1
+Person;Romero;1
+Person;Ronald Fain;2
+Person;Russ Severson;17
+Person;Russell Long;5
+Person;Sandra Lighthill;2
+Person;Scott Mills;17
+Person;Scott Neal;14
+Person;Shekar Komatireddy;2
+Person;Steve South;3
+Person;Thomas A Martin;1
+Person;Tim;5
+Person;Tom Martin;3
+Person;William Redick;2
+Person;Zarin Imam;1
+Person;mike grigsby;1
+Product;(Desktop,;2
+Product;Gas;30
+Product;Laptop,;2
+Product;Microturbine;2
+Product;gas;36
+Product;microturbines;3
+Product;power;13
+Time;01:00 PM;5
+Time;01:01 PM;1
+Time;01:09 PM;1
+Time;01:12:21 PM;1
+Time;01:13 PM;1
+Time;01:18:45;2
+Time;01:38 PM;1
+Time;01:39 PM;1
+Time;01:42;2
+Time;01:45 PM;1
+Time;01:50 PM;1
+Time;02:00;4
+Time;02:00 PM;11
+Time;02:01 PM;2
+Time;02:16;1
+Time;02:32:57 PM;1
+Time;02:37:55;1
+Time;02:44:36;1
+Time;03:53 PM;1
+Time;03:56 PM;1
+Time;04:13 PM;1
+Time;04:28 PM;1
+Time;04:30 PM;1
+Time;04:47:40 AM;1
+Time;04:57 PM;1
+Time;05:21:49 AM;3
+Time;05:26;1
+Time;05:35:20;1
+Time;05:38 PM;2
+Time;05:39 AM;1
+Time;05:39 PM;1
+Time;06:03 PM;2
+Time;06:35:56 AM;1
+Time;06:59 AM;2
+Time;08:34 AM;2
+Time;08:53 AM;1
+Time;09:06:45 AM;1
+Time;09:23 AM;1
+Time;10 years;1
+Time;10:32:49 AM;1
+Time;10:44 AM;1
+Time;10:56 AM;1
+Time;11:22 AM;1
+Time;11:30;2
+Time;12 months;3
+Time;12-month;2
+Time;12:03 PM;2
+Time;12:07 PM;1
+Time;12:08 PM;1
+Time;12:24;1
+Time;12:30 PM;1
+Time;24 hours;1
+Time;2:00;1
+Time;2:14 PM;2
+Time;2:30;1
+Time;3 years;4
+Time;3:30;2
+Time;4 months;2
+Time;4:00;2
+Time;4:00pm;1
+Time;5:00;1
+Time;6 month;2
+Time;6 months;5
+Time;6.;1
+Time;7:00;1
+Time;90 days;2
+Time;August;6
+Time;August 28th;1
+Time;Friday;2
+Time;July;2
+Time;June;3
+Time;May;1
+Time;Monday;3
+Time;Oct.;1
+Time;October;6
+Time;Saturday;3
+Time;September;15
+Time;Thursday;11
+Time;Tuesday;3
+Time;Wed;1
+Time;Wednesday;6
+Time;hours;3
+Time;morning;2
+Time;today;12
+Time;week;19
+Time;yesterday;3
